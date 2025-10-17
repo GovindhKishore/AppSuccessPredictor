@@ -49,6 +49,10 @@ The project relies on the following Python packages:
 - streamlit (~=1.50.0): For the web interface
 - google-generativeai (~=0.8.5): For AI-powered analysis using Google's Gemini
 
+## Citation
+Dataset used in this project: [Harshvir Singh – Cleaned Google Play Store Dataset](https://www.kaggle.com/datasets/harshvir04/cleaned-google-play-store-dataset)
+
+
 ## Notes and Tips
 
 - **Model Limitations**: The predictions are based solely on the specified features (category, size, price, content rating, and release year) and do not account for other important factors like app design, user experience, marketing strategy, or market competition.
