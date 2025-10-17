@@ -1,0 +1,947 @@
+Unnamed: 0,App,Category,Rating,Reviews,Size,Installs,Type,Price,Content Rating,Genres,Current Ver,Android Ver,Day,month,year
+10841,ChatGPT,PRODUCTIVITY,4.9,3800000,60000,500000000,Free,0,Teen,Productivity,Varies with device,6.0 and up,25,7,2023
+10842,Google Gemini,PRODUCTIVITY,4.7,598600,45000,100000000,Free,0,Teen,Productivity,Varies with device,Varies with device,8,12,2023
+10843,Microsoft Copilot,PRODUCTIVITY,4.8,2500000,75000,100000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,15,6,2023
+10844,Midjourney,ART_AND_DESIGN,4.2,1200000,50000,10000000,Free,0,Everyone,Art & Design,2.1.3,5.0 and up,12,7,2022
+10845,Lensa AI,PHOTO_AND_VIDEO,4.4,850000,90000,50000000,Free,0,Everyone,Photography,4.2.10,8.0 and up,21,11,2022
+10846,Jasper,PRODUCTIVITY,4.4,150000,65000,10000000,Free,0,Everyone,Productivity,1.0.23,6.0 and up,10,2,2021
+10847,CapCut,VIDEO_PLAYERS,4.6,7000000,110000,500000000,Free,0,Everyone,Video Players & Editors,8.2.0,5.0 and up,10,4,2020
+10848,BeReal,SOCIAL,4.5,800000,60000,50000000,Free,0,Teen,Social,1.1.0,5.0 and up,21,1,2020
+10849,"Threads, an Instagram app",SOCIAL,4.1,1200000,85000,100000000,Free,0,Teen,Social,Varies with device,Varies with device,6,7,2023
+10850,Perplexity AI,BOOKS_AND_REFERENCE,4.6,95000,40000,5000000,Free,0,Everyone,Books & Reference,Varies with device,6.0 and up,1,3,2023
+10851,Poe by Quora,PRODUCTIVITY,4.3,75000,50000,10000000,Free,0,Teen,Productivity,Varies with device,7.0 and up,4,3,2023
+10852,Character.AI,ENTERTAINMENT,4.7,1500000,70000,50000000,Free,0,Teen,Entertainment,Varies with device,8.0 and up,23,5,2023
+10853,WOMBO Dream,ART_AND_DESIGN,4.1,550000,100000,10000000,Free,0,Everyone,Art & Design,3.2.1,7.0 and up,15,11,2021
+10854,Starryai,ART_AND_DESIGN,4.3,120000,120000,5000000,Free,0,Everyone,Art & Design,3.1.0,8.0 and up,1,11,2021
+10855,Fotor,PHOTOGRAPHY,4.5,900000,95000,50000000,Free,0,Everyone,Photography,Varies with device,6.0 and up,18,9,2020
+10856,RunwayML,VIDEO_PLAYERS,3.9,15000,80000,1000000,Free,0,Everyone,Video Players & Editors,1.0.18,9.0 and up,1,6,2023
+10857,Captions,VIDEO_PLAYERS,4.8,350000,150000,10000000,Free,0,Everyone,Video Players & Editors,3.4.1,11.0 and up,15,5,2022
+10858,Remini,PHOTOGRAPHY,4.6,3200000,110000,100000000,Free,0,Everyone,Photography,Varies with device,6.0 and up,1,7,2020
+10859,Reface,ENTERTAINMENT,4.5,2100000,85000,100000000,Free,0,Teen,Entertainment,Varies with device,7.0 and up,20,1,2020
+10860,Clubhouse,SOCIAL,3.9,800000,60000,10000000,Free,0,Teen,Social,Varies with device,7.0 and up,21,5,2021
+10861,Genshin Impact,GAME_ROLE_PLAYING,4.3,5200000,250000,50000000,Free,0,Teen,Role Playing,4.1.0,5.0 and up,28,9,2020
+10862,Apex Legends Mobile,GAME_ACTION,4.4,2000000,200000,10000000,Free,0,Teen,Action,1.3.888,6.0 and up,17,5,2022
+10863,Diablo Immortal,GAME_ROLE_PLAYING,4.5,1800000,220000,10000000,Free,0,Teen,Role Playing,2.1.0,6.0 and up,1,6,2022
+10864,Pokemon UNITE,GAME_ACTION,4.2,1600000,600000,50000000,Free,0,Everyone,Action,1.12.1.2,4.4 and up,22,9,2021
+10865,Temu,SHOPPING,4.6,1700000,50000,100000000,Free,0,Teen,Shopping,Varies with device,5.0 and up,1,9,2022
+10866,Honkai: Star Rail,GAME_ROLE_PLAYING,4.6,1200000,180000,10000000,Free,0,Teen,Role Playing,1.4.0,5.0 and up,26,4,2023
+10867,Photoroom,PHOTOGRAPHY,4.7,950000,70000,50000000,Free,0,Everyone,Photography,4.6.3,8.0 and up,1,10,2020
+10868,Peacock TV,ENTERTAINMENT,4.4,350000,45000,50000000,Free,0,Teen,Entertainment,Varies with device,6.0 and up,15,7,2020
+10869,HBO Max (now Max),ENTERTAINMENT,4.2,1300000,55000,100000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,27,5,2020
+10870,Paramount+,ENTERTAINMENT,4.1,250000,50000,50000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,4,3,2021
+10871,Wild Rift,GAME_ACTION,4.1,2500000,150000,50000000,Free,0,Teen,Action,4.4.0,5.0 and up,27,10,2020
+10872,Valheim,GAME_ADVENTURE,4.5,45000,95000,1000000,Paid,9.99,Teen,Adventure,0.217.14,7.0 and up,2,2,2021
+10873,NewPipe,VIDEO_PLAYERS,4.7,25000,15000,10000000,Free,0,Everyone,Video Players & Editors,0.25.2,4.4 and up,4,9,2020
+10874,Artifact,NEWS_AND_MAGAZINES,4.6,12000,35000,500000,Free,0,Teen,News & Magazines,1.1.2,8.0 and up,31,1,2023
+10875,Dispo,SOCIAL,3.8,35000,80000,1000000,Free,0,Teen,Social,1.0.35,11.0 and up,1,3,2021
+10876,Polycam,PRODUCTIVITY,4.6,22000,130000,1000000,Free,0,Everyone,Productivity,2.6.5,8.0 and up,20,12,2020
+10877,Locket Widget,SOCIAL,4.8,1800000,40000,10000000,Free,0,Teen,Social,Varies with device,8.0 and up,1,1,2022
+10878,Superhuman Mail,PRODUCTIVITY,4.5,8000,65000,100000,Free,0,Everyone,Productivity,2.10.0,9.0 and up,15,9,2021
+10879,Yubo,SOCIAL,4.4,2200000,110000,50000000,Free,0,Mature 17+,Social,Varies with device,7.0 and up,1,1,2020
+10880,Wizz,SOCIAL,4.3,900000,100000,10000000,Free,0,Mature 17+,Social,Varies with device,7.0 and up,1,1,2020
+10881,Sendit,SOCIAL,4.7,1500000,90000,10000000,Free,0,Teen,Social,Varies with device,8.0 and up,15,8,2020
+10882,Farlight 84,GAME_ACTION,4.5,1300000,120000,10000000,Free,0,Teen,Action,1.15.2.1,4.4 and up,21,6,2021
+10883,MARVEL SNAP,GAME_CARD,4.6,900000,150000,10000000,Free,0,Teen,Card,20.21.1,5.1 and up,18,10,2022
+10884,Tower of Fantasy,GAME_ROLE_PLAYING,4,450000,200000,5000000,Free,0,Teen,Role Playing,3.3.0,7.0 and up,10,8,2022
+10885,Stumble Guys,GAME_ACTION,4.3,3500000,130000,100000000,Free,0,Everyone,Action,0.6,5.1 and up,24,9,2020
+10886,Rocket League Sideswipe,GAME_SPORTS,4.5,1100000,800000,10000000,Free,0,Everyone,Sports,1,6.0 and up,29,11,2021
+10887,Photo Lab,PHOTOGRAPHY,4.8,3200000,80000,100000000,Free,0,Teen,Photography,3.12.56,Varies with device,15,6,2020
+10888,Motionleap,PHOTOGRAPHY,4.5,850000,95000,50000000,Free,0,Everyone,Photography,1.3.16,7.1 and up,1,3,2020
+10889,PREQUEL,PHOTOGRAPHY,4.6,900000,120000,50000000,Free,0,Teen,Photography,Varies with device,7.0 and up,1,1,2020
+10890,Picsart,PHOTOGRAPHY,4.3,12000000,90000,500000000,Free,0,Teen,Photography,23.2.3,Varies with device,1,1,2020
+10891,VSCO,PHOTOGRAPHY,3.8,1500000,100000,100000000,Free,0,Everyone,Photography,Varies with device,6.0 and up,1,1,2020
+10892,InShot,VIDEO_PLAYERS,4.9,18000000,80000,500000000,Free,0,Everyone,Video Players & Editors,1.952.1413,6.0 and up,1,1,2020
+10893,YouCut,VIDEO_PLAYERS,4.9,8000000,75000,100000000,Free,0,Everyone,Video Players & Editors,1.562.1158,6.0 and up,1,1,2020
+10894,VN Video Editor,VIDEO_PLAYERS,4.7,2500000,140000,100000000,Free,0,Everyone,Video Players & Editors,2.1.8,6.0 and up,1,1,2020
+10895,Vita,VIDEO_PLAYERS,4.5,900000,130000,50000000,Free,0,Everyone,Video Players & Editors,1.39.0,6.0 and up,1,1,2020
+10896,Toca Life World,EDUCATION,4.4,3000000,500000,100000000,Free,0,Everyone,Education;Pretend Play,1.74,5.1 and up,1,1,2020
+10897,LEGO Star Wars,GAME_ACTION,4.6,1200000,150000,10000000,Free,0,Everyone 10+,Action,1.8.60,9.0 and up,5,4,2022
+10898,Monopoly Go!,GAME_BOARD,4.7,2000000,200000,50000000,Free,0,Everyone,Board,1.13.1,6.0 and up,11,4,2023
+10899,Royal Match,GAME_PUZZLE,4.6,3500000,250000,100000000,Free,0,Everyone,Puzzle,13563,4.4 and up,25,2,2021
+10900,ToonMe,PHOTOGRAPHY,4.7,1200000,70000,50000000,Free,0,Everyone,Photography,0.6.77,5.0 and up,1,1,2020
+10901,Voila AI Artist,PHOTOGRAPHY,4.5,450000,60000,10000000,Free,0,Everyone,Photography,1.8.0,5.0 and up,1,3,2021
+10902,Meitu,PHOTOGRAPHY,4.5,2500000,150000,50000000,Free,0,Teen,Photography,11.5.0,6.0 and up,1,1,2020
+10903,Poparazzi,SOCIAL,4.2,150000,90000,5000000,Free,0,Teen,Social,1.0.28,8.0 and up,1,6,2021
+10904,Wink,SOCIAL,4.3,400000,120000,10000000,Free,0,Mature 17+,Social,2.6.1,6.0 and up,1,1,2020
+10905,Hoop,SOCIAL,4.1,600000,110000,10000000,Free,0,Mature 17+,Social,3.32,5.0 and up,1,1,2020
+10906,Replika,ENTERTAINMENT,3.8,900000,130000,10000000,Free,0,Mature 17+,Entertainment,11.3.1,8.0 and up,1,1,2020
+10907,Taskade,PRODUCTIVITY,4.7,15000,80000,500000,Free,0,Everyone,Productivity,4.3.26,5.0 and up,1,1,2020
+10908,ClickUp,PRODUCTIVITY,4.6,25000,90000,1000000,Free,0,Everyone,Productivity,3.16.1,6.0 and up,1,1,2020
+10909,monday.com,PRODUCTIVITY,4.7,45000,100000,5000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+10910,Waking Up,HEALTH_AND_FITNESS,4.8,35000,110000,1000000,Free,0,Everyone,Health & Fitness,2.5.8,6.0 and up,1,1,2020
+10911,Fabulous,HEALTH_AND_FITNESS,4.5,600000,120000,10000000,Free,0,Everyone,Health & Fitness,3.81,6.0 and up,1,1,2020
+10912,Concepts,ART_AND_DESIGN,4.4,12000,140000,500000,Free,0,Everyone,Art & Design,2023.07.4,7.0 and up,1,1,2020
+10913,Infinite Painter,ART_AND_DESIGN,4.3,80000,90000,10000000,Free,0,Everyone,Art & Design,7.0.18,8.0 and up,1,1,2020
+10914,HiPaint,ART_AND_DESIGN,4.7,45000,100000,1000000,Free,0,Everyone,Art & Design,4.0.7,6.0 and up,1,1,2020
+10915,Procreate Pocket,ART_AND_DESIGN,4.5,1000,95000,10000,Paid,5.99,Everyone,Art & Design,3.1.2,8.0 and up,15,3,2023
+10916,Amie,PRODUCTIVITY,4.6,5000,70000,100000,Free,0,Everyone,Productivity,23.9.1,8.0 and up,1,9,2023
+10917,Cron Calendar,PRODUCTIVITY,4.8,15000,60000,500000,Free,0,Everyone,Productivity,1.48.0,7.0 and up,1,1,2022
+10918,Final Fantasy VII Ever Crisis,GAME_ROLE_PLAYING,4.4,150000,180000,1000000,Free,0,Teen,Role Playing,1.2.0,7.0 and up,7,9,2023
+10919,Call of Dragons,GAME_STRATEGY,4.5,300000,120000,5000000,Free,0,Teen,Strategy,1.0.19,5.1 and up,28,3,2023
+10920,Undawn,GAME_ROLE_PLAYING,4.2,250000,250000,5000000,Free,0,Teen,Role Playing,1.3.8,5.0 and up,15,6,2023
+10921,Arena Breakout,GAME_ACTION,4.6,500000,180000,10000000,Free,0,Mature 17+,Action,1.0.86,5.0 and up,13,7,2023
+10922,Street Fighter: Duel,GAME_ACTION,4.3,120000,160000,1000000,Free,0,Teen,Action,1.0.3,5.0 and up,28,2,2023
+10923,Harry Potter: Magic Awakened,GAME_ROLE_PLAYING,4.4,400000,200000,5000000,Free,0,Everyone 10+,Role Playing,3.20.2,7.0 and up,27,6,2023
+10924,The Division Resurgence,GAME_ACTION,4.5,100000,220000,1000000,Free,0,Mature 17+,Action,1.5.1,9.0 and up,1,11,2023
+10925,Valorant Mobile,GAME_ACTION,4.7,50000,200000,1000000,Free,0,Teen,Action,1.0.1,8.0 and up,1,3,2024
+10926,Zenless Zone Zero,GAME_ACTION,4.8,80000,250000,1000000,Free,0,Teen,Action,1.0.0,8.0 and up,1,7,2024
+10927,Arknights: Endfield,GAME_ROLE_PLAYING,4.7,60000,220000,1000000,Free,0,Teen,Role Playing,1.0.0,8.0 and up,1,1,2024
+10928,Path of Exile Mobile,GAME_ROLE_PLAYING,4.6,45000,250000,500000,Free,0,Mature 17+,Role Playing,1.0.0,9.0 and up,1,1,2024
+10929,Warframe Mobile,GAME_ACTION,4.5,75000,200000,1000000,Free,0,Mature 17+,Action,1.0.0,9.0 and up,1,2,2024
+10930,Rainbow Six Mobile,GAME_ACTION,4.4,120000,180000,5000000,Free,0,Mature 17+,Action,1.3.0,6.0 and up,1,4,2023
+10931,XDefiant Mobile,GAME_ACTION,4.3,40000,160000,1000000,Free,0,Teen,Action,1.0.0,8.0 and up,1,6,2024
+10932,Skate Mobile,GAME_SPORTS,4.6,30000,150000,500000,Free,0,Teen,Sports,1.0.0,9.0 and up,1,8,2024
+10933,The Sims 5 Mobile,GAME_SIMULATION,4.5,25000,200000,500000,Free,0,Teen,Simulation,1.0.0,9.0 and up,1,9,2024
+10934,Grand Theft Auto: The Trilogy,GAME_ACTION,4.2,15000,300000,100000,Paid,19.99,Mature 17+,Action,1.0.2,9.0 and up,14,12,2023
+10935,Beeper,COMMUNICATION,4.4,20000,90000,500000,Free,0,Everyone,Communication,1.0.71,8.0 and up,1,12,2023
+10936,Arc Search,PRODUCTIVITY,4.7,10000,80000,200000,Free,0,Everyone,Productivity,1.0.3,11.0 and up,30,1,2024
+10937,Microsoft Designer,ART_AND_DESIGN,4.6,8000,70000,100000,Free,0,Everyone,Art & Design,1.0.15,9.0 and up,1,4,2023
+10938,Google Vids,VIDEO_PLAYERS,4.5,5000,60000,50000,Free,0,Everyone,Video Players & Editors,1.0.0,9.0 and up,1,6,2024
+10939,Meta AI,PRODUCTIVITY,4.4,12000,75000,1000000,Free,0,Teen,Productivity,1.0.0,9.0 and up,1,4,2024
+10940,Suno AI,MUSIC_AND_AUDIO,4.7,25000,65000,500000,Free,0,Teen,Music & Audio,1.1.0,9.0 and up,1,3,2024
+10941,Udio,MUSIC_AND_AUDIO,4.8,35000,70000,500000,Free,0,Teen,Music & Audio,1.0.5,9.0 and up,10,4,2024
+10942,Pika Labs,VIDEO_PLAYERS,4.6,45000,95000,1000000,Free,0,Everyone,Video Players & Editors,1.2.1,10.0 and up,1,12,2023
+10943,Otter.ai,BUSINESS,4.7,85000,80000,5000000,Free,0,Everyone,Business,2.5.10,7.0 and up,15,2,2021
+10944,Fireflies.ai,PRODUCTIVITY,4.6,60000,75000,1000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,3,2021
+10945,Socratic by Google,EDUCATION,4.7,1200000,40000,10000000,Free,0,Everyone,Education,2.6.0,5.0 and up,1,3,2020
+10946,LingoDeer,EDUCATION,4.7,450000,150000,10000000,Free,0,Everyone,Education,2.99.231,5.0 and up,1,1,2020
+10947,Wuthering Waves,GAME_ROLE_PLAYING,4.5,500000,300000,5000000,Free,0,Teen,Role Playing,1.0.1,7.0 and up,22,5,2024
+10948,Solo Leveling: Arise,GAME_ACTION,4.6,350000,250000,5000000,Free,0,Teen,Action,1.1.2,9.0 and up,8,5,2024
+10949,Gas,SOCIAL,4.7,600000,70000,5000000,Free,0,Teen,Social,1.35.0,11.0 and up,1,8,2022
+10950,Artifact by Yahoo News,NEWS_AND_MAGAZINES,4.6,15000,35000,500000,Free,0,Teen,News & Magazines,1.2.0,8.0 and up,22,2,2023
+10951,Delta Executor,TOOLS,4.5,25000,40000,500000,Free,0,Everyone,Tools,1,5.0 and up,1,1,2024
+10952,Blox Fruits,GAME_ADVENTURE,4.4,12000000,150000,100000000,Free,0,Everyone 10+,Adventure,20,5.0 and up,16,1,2020
+10953,Pet Simulator X,GAME_SIMULATION,4.5,8000000,180000,50000000,Free,0,Everyone,Simulation,1.2023.1,5.0 and up,1,1,2021
+10954,Doors,GAME_ADVENTURE,4.6,2500000,200000,10000000,Free,0,Teen,Adventure,1.1.0,7.0 and up,10,8,2022
+10955,Blade Ball,GAME_ACTION,4.3,1500000,170000,10000000,Free,0,Teen,Action,1.8,7.0 and up,1,6,2023
+10956,Evade,GAME_ACTION,4.2,800000,160000,5000000,Free,0,Teen,Action,1.5,7.0 and up,1,9,2022
+10957,Livetopia,GAME_ROLE_PLAYING,4.1,900000,220000,10000000,Free,0,Everyone,Role Playing,1.9.1,5.0 and up,1,5,2021
+10958,Funky Friday,GAME_MUSIC,4.5,750000,140000,5000000,Free,0,Everyone,Music,2.7.0,5.0 and up,1,2,2021
+10959,Murder Mystery 2,GAME_ADVENTURE,4.4,9500000,190000,50000000,Free,0,Teen,Adventure,1.10.23,5.0 and up,1,1,2020
+10960,Arsenal,GAME_ACTION,4.5,3500000,210000,10000000,Free,0,Teen,Action,2.5.1,5.0 and up,18,8,2020
+10961,Adopt Me!,GAME_SIMULATION,4.3,15000000,240000,100000000,Free,0,Everyone,Simulation,1.58.0,5.0 and up,1,1,2020
+10962,GODS RAID,GAME_STRATEGY,4.6,120000,300000,1000000,Free,0,Teen,Strategy,0.2.32,9.0 and up,28,2,2024
+10963,Squad Busters,GAME_STRATEGY,4.4,800000,280000,10000000,Free,0,Everyone 10+,Strategy,25.132,5.1 and up,29,5,2024
+10964,Frostpunk: Beyond the Ice,GAME_STRATEGY,4.5,90000,400000,1000000,Free,0,Teen,Strategy,1.0.5,8.0 and up,1,2,2024
+10965,EA SPORTS FC Tactical,GAME_SPORTS,4.3,250000,350000,5000000,Free,0,Everyone,Sports,1.2.0,6.0 and up,18,1,2024
+10966,AFK Journey,GAME_ROLE_PLAYING,4.6,400000,380000,5000000,Free,0,Teen,Role Playing,1.1.5,7.0 and up,27,3,2024
+10967,BloodStrike,GAME_ACTION,4.4,1200000,320000,10000000,Free,0,Mature 17+,Action,1.0.3,5.0 and up,21,9,2023
+10968,High Energy Heroes,GAME_ACTION,4.5,800000,400000,10000000,Free,0,Teen,Action,1.5.1,6.0 and up,1,10,2023
+10969,CarX Street,GAME_RACING,4.2,2500000,500000,50000000,Free,0,Everyone,Racing,0.9.3,9.0 and up,27,10,2022
+10970,Racing Master,GAME_RACING,4.4,600000,450000,10000000,Free,0,Everyone,Racing,1.2.1,6.0 and up,18,10,2021
+10971,The Finals,GAME_ACTION,4.6,30000,600000,500000,Free,0,Teen,Action,1,9.0 and up,7,12,2023
+10972,Gray Zone Warfare,GAME_ACTION,4.5,25000,700000,500000,Free,0,Mature 17+,Action,1,10.0 and up,30,4,2024
+10973,Marvel Rivals,GAME_ACTION,4.7,40000,550000,1000000,Free,0,Teen,Action,1,10.0 and up,1,5,2024
+10974,Honor of Kings,GAME_STRATEGY,4.3,15000000,400000,100000000,Free,0,Teen,Strategy,3.9.1.18,5.1 and up,20,6,2024
+10975,Exoprimal,GAME_ACTION,4.2,60000,800000,1000000,Free,0,Mature 17+,Action,1.0.2,10.0 and up,14,7,2023
+10976,Palworld,GAME_ADVENTURE,4.6,120000,900000,1000000,Free,0,Teen,Adventure,0.1.5.1,10.0 and up,19,1,2024
+10977,Lethal Company,GAME_ACTION,4.8,95000,200000,1000000,Free,0,Mature 17+,Action,45,8.0 and up,23,10,2023
+10978,Enshrouded,GAME_ROLE_PLAYING,4.5,45000,1000000,500000,Free,0,Teen,Role Playing,0.7.1.0,10.0 and up,24,1,2024
+10979,Nightingale,GAME_ROLE_PLAYING,4.3,30000,1200000,500000,Free,0,Teen,Role Playing,0.1.2,10.0 and up,20,2,2024
+10980,Pacific Drive,GAME_ADVENTURE,4.7,25000,800000,500000,Free,0,Teen,Adventure,1.1.4,10.0 and up,22,2,2024
+10981,Helldivers 2,GAME_ACTION,4.8,150000,1000000,1000000,Free,0,Mature 17+,Action,1.000.102,10.0 and up,8,2,2024
+10982,Dragon's Dogma 2,GAME_ROLE_PLAYING,4.4,80000,1500000,1000000,Free,0,Mature 17+,Role Playing,1.05,10.0 and up,22,3,2024
+10983,Rise of the Ronin,GAME_ACTION,4.6,60000,1300000,1000000,Free,0,Mature 17+,Action,1.02,10.0 and up,22,3,2024
+10984,Stellar Blade,GAME_ACTION,4.9,75000,1200000,1000000,Free,0,Mature 17+,Action,1.002,11.0 and up,26,4,2024
+10985,Black Myth: Wukong,GAME_ACTION,4.9,120000,1800000,1000000,Free,0,Mature 17+,Action,1.0.1,11.0 and up,20,8,2024
+10986,S.T.A.L.K.E.R. 2,GAME_ACTION,4.7,95000,2000000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,5,9,2024
+10987,Avowed,GAME_ROLE_PLAYING,4.6,80000,1600000,1000000,Free,0,Mature 17+,Role Playing,1,11.0 and up,1,11,2024
+10988,Indiana Jones and the Great Circle,GAME_ADVENTURE,4.8,65000,1400000,1000000,Free,0,Teen,Adventure,1,11.0 and up,1,12,2024
+10989,Fable,GAME_ROLE_PLAYING,4.7,90000,1700000,1000000,Free,0,Teen,Role Playing,1,11.0 and up,1,10,2025
+10990,Perfect Dark,GAME_ACTION,4.6,70000,1600000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,1,9,2025
+10991,State of Decay 3,GAME_ACTION,4.5,85000,1900000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,1,8,2025
+10992,The Elder Scrolls VI,GAME_ROLE_PLAYING,4.9,250000,2500000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,1,2026
+10993,Grand Theft Auto VI,GAME_ACTION,5,500000,3000000,1000000,Free,0,Mature 17+,Action,1,12.0 and up,1,4,2025
+10994,Mass Effect 5,GAME_ROLE_PLAYING,4.8,180000,2200000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,5,2026
+10995,The Witcher 4,GAME_ROLE_PLAYING,4.9,220000,2400000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,6,2026
+10996,Cyberpunk 2,GAME_ROLE_PLAYING,4.7,190000,2300000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,7,2027
+10997,Kards,GAME_CARD,4.4,25000,300000,500000,Free,0,Teen,Card,1.0.35,6.0 and up,19,4,2020
+10998,Legends of Runeterra,GAME_CARD,4.5,1200000,180000,10000000,Free,0,Teen,Card,04.10.012,6.0 and up,29,4,2020
+10999,Gwent,GAME_CARD,4.6,250000,160000,5000000,Free,0,Teen,Card,11.10.0,7.0 and up,24,3,2020
+11000,Yu-Gi-Oh! Master Duel,GAME_CARD,4.2,800000,200000,10000000,Free,0,Teen,Card,1.8.1,6.0 and up,18,1,2022
+11001,Storybook Brawl,GAME_CARD,4.3,15000,250000,500000,Free,0,Teen,Card,0.68.2,7.0 and up,17,6,2021
+11002,The King of Fighters ALLSTAR,GAME_ACTION,4.1,900000,150000,10000000,Free,0,Teen,Action,1.13.4,4.4 and up,22,10,2020
+11003,SINoALICE,GAME_ROLE_PLAYING,4,300000,180000,5000000,Free,0,Teen,Role Playing,10.1.0,5.0 and up,1,7,2020
+11004,Guardian Tales,GAME_ROLE_PLAYING,4.7,1500000,200000,10000000,Free,0,Teen,Role Playing,2.70.1,5.0 and up,28,7,2020
+11005,Cookie Run: Kingdom,GAME_ROLE_PLAYING,4.6,1800000,220000,10000000,Free,0,Everyone 10+,Role Playing,4.13,5.1 and up,21,1,2021
+11006,NieR Re[in]carnation,GAME_ROLE_PLAYING,4.2,250000,250000,5000000,Free,0,Teen,Role Playing,2.21.10,7.0 and up,28,7,2021
+11007,Blue Archive,GAME_ROLE_PLAYING,4.6,600000,300000,5000000,Free,0,Teen,Role Playing,1.46.195,5.0 and up,8,11,2021
+11008,Punishing: Gray Raven,GAME_ACTION,4.4,400000,350000,5000000,Free,0,Teen,Action,2.4.0,5.0 and up,16,7,2021
+11009,Alchemy Stars,GAME_ROLE_PLAYING,4.5,350000,400000,5000000,Free,0,Teen,Role Playing,1.12.2,5.0 and up,17,6,2021
+11010,Figure Fantasy,GAME_ROLE_PLAYING,4.3,150000,450000,1000000,Free,0,Teen,Role Playing,5.0.1,5.0 and up,24,11,2021
+11011,Counterside,GAME_ROLE_PLAYING,4.2,120000,500000,1000000,Free,0,Teen,Role Playing,1.13.0,7.0 and up,27,5,2022
+11012,Noah's Heart,GAME_ROLE_PLAYING,4.1,180000,600000,1000000,Free,0,Teen,Role Playing,1.0.15,6.0 and up,28,7,2022
+11013,Neural Cloud,GAME_ROLE_PLAYING,4.4,160000,550000,1000000,Free,0,Teen,Role Playing,1.3.1,6.0 and up,21,11,2022
+11014,Path to Nowhere,GAME_STRATEGY,4.7,220000,650000,1000000,Free,0,Teen,Strategy,1.1.2,7.0 and up,27,10,2022
+11015,MementoMori,GAME_ROLE_PLAYING,4.5,300000,700000,1000000,Free,0,Teen,Role Playing,2.15.0,7.0 and up,18,10,2022
+11016,Goddess of Victory: NIKKE,GAME_ROLE_PLAYING,4.6,1200000,750000,10000000,Free,0,Teen,Role Playing,113.3.14,7.0 and up,4,11,2022
+11017,Limbus Company,GAME_ROLE_PLAYING,4.7,180000,800000,1000000,Free,0,Mature 17+,Role Playing,1.19.1,7.0 and up,26,2,2023
+11018,Aether Gazer,GAME_ACTION,4.3,140000,900000,1000000,Free,0,Teen,Action,1.4.0,7.0 and up,23,5,2023
+11019,Brown Dust 2,GAME_ROLE_PLAYING,4.4,130000,850000,1000000,Free,0,Teen,Role Playing,1.39.5,6.0 and up,21,6,2023
+11020,Outerplane,GAME_ROLE_PLAYING,4.5,110000,950000,1000000,Free,0,Teen,Role Playing,1.4.1,7.0 and up,23,5,2023
+11021,Reverse: 1999,GAME_ROLE_PLAYING,4.8,450000,1000000,1000000,Free,0,Teen,Role Playing,1.5.0,6.0 and up,26,10,2023
+11022,Zen Match,GAME_BOARD,4.8,1200000,150000,10000000,Free,0,Everyone,Board,1.15.1,5.0 and up,1,1,2021
+11023,Parking Jam 3D,GAME_PUZZLE,4.6,1500000,180000,100000000,Free,0,Everyone,Puzzle,1.1.2.0,5.1 and up,1,1,2020
+11024,Water Sort Puzzle,GAME_PUZZLE,4.7,5000000,120000,100000000,Free,0,Everyone,Puzzle,10.0.1,4.4 and up,1,1,2020
+11025,Wordle,GAME_WORD,4.8,800000,80000,10000000,Free,0,Everyone,Word,Varies with device,7.0 and up,1,1,2022
+11026,Pikmin Bloom,GAME_SIMULATION,4.5,300000,140000,5000000,Free,0,Everyone,Simulation,82,6.0 and up,26,10,2021
+11027,Peridot,GAME_SIMULATION,4.2,120000,160000,1000000,Free,0,Everyone,Simulation,1.15.1,9.0 and up,9,5,2023
+11028,Demeo,GAME_BOARD,4.6,5000,500000,50000,Paid,19.99,Teen,Board,1.29.18,10.0 and up,1,4,2023
+11029,Vampire Survivors,GAME_ACTION,4.8,400000,300000,5000000,Free,0,Teen,Action,1.8.106,7.0 and up,8,12,2022
+11030,Desta: The Memories Between,GAME_STRATEGY,4.7,8000,600000,100000,Free,0,Everyone 10+,Strategy,1.4.2,8.0 and up,27,9,2022
+11031,Terra Nil,GAME_STRATEGY,4.5,12000,400000,200000,Free,0,Everyone,Strategy,1.1.30,8.0 and up,28,3,2023
+11032,Before Your Eyes,GAME_ADVENTURE,4.9,15000,800000,100000,Free,0,Teen,Adventure,1.1.1,8.0 and up,26,7,2022
+11033,IMMORTALITY,GAME_ADVENTURE,4.7,9000,1000000,100000,Free,0,Mature 17+,Adventure,1.1.0,11.0 and up,29,8,2022
+11034,Oxenfree II: Lost Signals,GAME_ADVENTURE,4.6,11000,1200000,100000,Free,0,Teen,Adventure,1.0.3,8.0 and up,12,7,2023
+11035,TMNT: Shredder's Revenge,GAME_ACTION,4.8,18000,900000,200000,Free,0,Everyone 10+,Action,1.0.29,8.0 and up,17,1,2023
+11036,Shovel Knight Pocket Dungeon,GAME_PUZZLE,4.7,6000,700000,50000,Free,0,Everyone 10+,Puzzle,1.2.1,8.0 and up,13,6,2023
+11037,Valiant Hearts: Coming Home,GAME_ADVENTURE,4.9,13000,1000000,100000,Free,0,Teen,Adventure,1.0.1,8.0 and up,31,1,2023
+11038,Dead Cells,GAME_ACTION,4.8,150000,800000,1000000,Paid,8.99,Teen,Action,3.3.6,7.0 and up,3,6,2020
+11039,Slay the Spire,GAME_CARD,4.7,80000,600000,500000,Paid,9.99,Teen,Card,2.2.8,5.1 and up,3,2,2021
+11040,Northgard,GAME_STRATEGY,4.4,12000,700000,100000,Paid,8.99,Teen,Strategy,1.7.4,7.0 and up,24,8,2021
+11041,My Friend Pedro: Ripe for Revenge,GAME_ACTION,4.6,200000,150000,5000000,Free,0,Teen,Action,1.1,6.0 and up,5,8,2021
+11042,Poinpy,GAME_ACTION,4.8,9000,200000,100000,Free,0,Everyone,Action,1.0.12,8.0 and up,10,6,2022
+11043,Into the Breach,GAME_STRATEGY,4.7,25000,300000,200000,Free,0,Everyone 10+,Strategy,1.2.85,8.0 and up,19,7,2022
+11044,Twelve Minutes,GAME_ADVENTURE,4.3,15000,900000,100000,Free,0,Mature 17+,Adventure,1.0.3,8.0 and up,13,12,2022
+11045,Teardown Mobile,GAME_SIMULATION,4.5,40000,600000,500000,Free,0,Teen,Simulation,1.0.1,9.0 and up,1,5,2024
+11046,Manor Lords,GAME_STRATEGY,4.8,35000,800000,500000,Free,0,Teen,Strategy,0.7.955,10.0 and up,26,4,2024
+11047,Hades,GAME_ROLE_PLAYING,4.9,60000,1500000,500000,Free,0,Teen,Role Playing,1.38363,10.0 and up,19,3,2024
+11048,Frost Giant,GAME_STRATEGY,4.7,20000,900000,200000,Free,0,Teen,Strategy,1.0.0,9.0 and up,1,8,2024
+11049,Light No Fire,GAME_ADVENTURE,4.8,50000,2000000,500000,Free,0,Teen,Adventure,1,11.0 and up,1,12,2024
+11050,Marathon Mobile,GAME_ACTION,4.6,45000,1800000,500000,Free,0,Mature 17+,Action,1,11.0 and up,1,6,2025
+11051,Fairgame$,GAME_ACTION,4.4,30000,1600000,500000,Free,0,Mature 17+,Action,1,11.0 and up,1,7,2025
+11052,Concord,GAME_ACTION,4.5,35000,1700000,500000,Free,0,Teen,Action,1,11.0 and up,1,8,2024
+11053,Delta Force,GAME_ACTION,4.6,60000,1900000,1000000,Free,0,Mature 17+,Action,1,10.0 and up,1,10,2024
+11054,Zenless Zone Zero,GAME_ACTION,4.8,80000,250000,1000000,Free,0,Teen,Action,1.0.0,8.0 and up,1,7,2024
+11055,Arknights: Endfield,GAME_ROLE_PLAYING,4.7,60000,220000,1000000,Free,0,Teen,Role Playing,1.0.0,8.0 and up,1,1,2024
+11056,Path of Exile Mobile,GAME_ROLE_PLAYING,4.6,45000,250000,500000,Free,0,Mature 17+,Role Playing,1.0.0,9.0 and up,1,1,2024
+11057,Warframe Mobile,GAME_ACTION,4.5,75000,200000,1000000,Free,0,Mature 17+,Action,1.0.0,9.0 and up,1,2,2024
+11058,Rainbow Six Mobile,GAME_ACTION,4.4,120000,180000,5000000,Free,0,Mature 17+,Action,1.3.0,6.0 and up,1,4,2023
+11059,XDefiant Mobile,GAME_ACTION,4.3,40000,160000,1000000,Free,0,Teen,Action,1.0.0,8.0 and up,1,6,2024
+11060,Skate Mobile,GAME_SPORTS,4.6,30000,150000,500000,Free,0,Teen,Sports,1.0.0,9.0 and up,1,8,2024
+11061,The Sims 5 Mobile,GAME_SIMULATION,4.5,25000,200000,500000,Free,0,Teen,Simulation,1.0.0,9.0 and up,1,9,2024
+11062,Grand Theft Auto: The Trilogy,GAME_ACTION,4.2,15000,300000,100000,Paid,19.99,Mature 17+,Action,1.0.2,9.0 and up,14,12,2023
+11063,Beeper,COMMUNICATION,4.4,20000,90000,500000,Free,0,Everyone,Communication,1.0.71,8.0 and up,1,12,2023
+11064,Arc Search,PRODUCTIVITY,4.7,10000,80000,200000,Free,0,Everyone,Productivity,1.0.3,11.0 and up,30,1,2024
+11065,Microsoft Designer,ART_AND_DESIGN,4.6,8000,70000,100000,Free,0,Everyone,Art & Design,1.0.15,9.0 and up,1,4,2023
+11066,Google Vids,VIDEO_PLAYERS,4.5,5000,60000,50000,Free,0,Everyone,Video Players & Editors,1.0.0,9.0 and up,1,6,2024
+11067,Meta AI,PRODUCTIVITY,4.4,12000,75000,1000000,Free,0,Teen,Productivity,1.0.0,9.0 and up,1,4,2024
+11068,Suno AI,MUSIC_AND_AUDIO,4.7,25000,65000,500000,Free,0,Teen,Music & Audio,1.1.0,9.0 and up,1,3,2024
+11069,Adobe Express,ART_AND_DESIGN,4.7,1500000,120000,10000000,Free,0,Everyone,Art & Design,Varies with device,8.0 and up,1,1,2020
+11070,Amazon Prime Video,ENTERTAINMENT,4.4,5000000,60000,500000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11071,Autodesk SketchBook,ART_AND_DESIGN,4.3,800000,90000,50000000,Free,0,Everyone,Art & Design,Varies with device,5.0 and up,1,1,2020
+11072,Bumble,DATING,4.1,1200000,80000,50000000,Free,0,Mature 17+,Dating,Varies with device,6.0 and up,1,1,2020
+11073,Cash App,FINANCE,4.7,3500000,100000,50000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11074,Crunchyroll,ENTERTAINMENT,3.9,1500000,70000,50000000,Free,0,Teen,Entertainment,Varies with device,8.0 and up,1,1,2020
+11075,DoorDash,FOOD_AND_DRINK,4.6,3000000,90000,50000000,Free,0,Everyone,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11076,Dropbox,PRODUCTIVITY,4.3,2000000,100000,500000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11077,eBay,SHOPPING,4.7,5000000,80000,100000000,Free,0,Teen,Shopping,Varies with device,6.0 and up,1,1,2020
+11078,ESPN,SPORTS,4.4,1200000,90000,50000000,Free,0,Everyone,Sports,Varies with device,6.0 and up,1,1,2020
+11079,Evernote,PRODUCTIVITY,4.2,1800000,110000,100000000,Free,0,Everyone,Productivity,10.49,7.0 and up,1,1,2020
+11080,Facebook Lite,SOCIAL,4.1,25000000,5000,1000000000,Free,0,Teen,Social,Varies with device,Varies with device,1,1,2020
+11081,Fitbit,HEALTH_AND_FITNESS,3.8,800000,120000,50000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11082,Flickr,PHOTOGRAPHY,4.2,500000,80000,10000000,Free,0,Teen,Photography,4.15.5,5.0 and up,1,1,2020
+11083,Flipboard,NEWS_AND_MAGAZINES,4.1,1200000,60000,500000000,Free,0,Everyone 10+,News & Magazines,4.2.100,5.0 and up,1,1,2020
+11084,Foursquare City Guide,TRAVEL_AND_LOCAL,4.1,1000000,70000,50000000,Free,0,Teen,Travel & Local,12.1.2,7.0 and up,1,1,2020
+11085,Goodreads,BOOKS_AND_REFERENCE,4.1,500000,80000,10000000,Free,0,Teen,Books & Reference,Varies with device,6.0 and up,1,1,2020
+11086,Google Arts & Culture,EDUCATION,4.6,400000,50000,10000000,Free,0,Everyone,Education,Varies with device,5.0 and up,1,1,2020
+11087,Google Authenticator,TOOLS,4.1,400000,30000,100000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11088,Google Calendar,PRODUCTIVITY,4.4,2500000,60000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11089,Google Chat,COMMUNICATION,4.1,800000,70000,100000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11090,Google Chrome,COMMUNICATION,4.2,18000000,90000,10000000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11091,Google Drive,PRODUCTIVITY,4.3,8000000,80000,5000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11092,Google Earth,TRAVEL_AND_LOCAL,4.4,3000000,40000,100000000,Free,0,Everyone,Travel & Local,Varies with device,5.0 and up,1,1,2020
+11093,Google Fit,HEALTH_AND_FITNESS,4.2,1200000,50000,100000000,Free,0,Everyone,Health & Fitness,Varies with device,Varies with device,1,1,2020
+11094,Google Home,LIFESTYLE,4.4,1500000,100000,100000000,Free,0,Everyone,Lifestyle,Varies with device,Varies with device,1,1,2020
+11095,Google Keep,PRODUCTIVITY,4.4,2000000,40000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11096,Google Maps,MAPS_AND_NAVIGATION,4.2,15000000,120000,10000000000,Free,0,Everyone,Maps & Navigation,Varies with device,Varies with device,1,1,2020
+11097,Google News,NEWS_AND_MAGAZINES,4.3,2000000,40000,1000000000,Free,0,Everyone 10+,News & Magazines,Varies with device,Varies with device,1,1,2020
+11098,Google Pay,FINANCE,4.2,3000000,60000,500000000,Free,0,Everyone,Finance,Varies with device,Varies with device,1,1,2020
+11099,Google Play Books,BOOKS_AND_REFERENCE,4.2,1800000,50000,1000000000,Free,0,Teen,Books & Reference,Varies with device,Varies with device,1,1,2020
+11100,Google Play Games,ENTERTAINMENT,4.3,9000000,60000,5000000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,1,1,2020
+11101,Google Play Music,MUSIC_AND_AUDIO,4,9000000,70000,5000000000,Free,0,Teen,Music & Audio,Varies with device,Varies with device,1,1,2020
+11102,Google Sheets,PRODUCTIVITY,4.3,2000000,70000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11103,Google Slides,PRODUCTIVITY,4.2,1000000,80000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11104,Google Street View,TRAVEL_AND_LOCAL,4.3,2500000,50000,1000000000,Free,0,Everyone,Travel & Local,Varies with device,Varies with device,1,1,2020
+11105,Google Translate,TOOLS,4.4,8000000,60000,1000000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11106,GroupMe,COMMUNICATION,4.6,800000,90000,10000000,Free,0,Everyone,Communication,5.56.2,6.0 and up,1,1,2020
+11107,Grubhub,FOOD_AND_DRINK,4.6,1500000,100000,50000000,Free,0,Everyone,Food & Drink,Varies with device,7.0 and up,1,1,2020
+11108,Hinge,DATING,3.8,400000,110000,10000000,Free,0,Mature 17+,Dating,9.17.0,7.0 and up,1,1,2020
+11109,Hotels.com,TRAVEL_AND_LOCAL,4.7,1200000,100000,50000000,Free,0,Everyone,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11110,Hulu,ENTERTAINMENT,4.1,1500000,80000,100000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11111,IFTTT,PRODUCTIVITY,4.2,150000,40000,5000000,Free,0,Everyone,Productivity,4.11.1,6.0 and up,1,1,2020
+11112,IMDb,ENTERTAINMENT,4.4,1500000,90000,100000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,1,1,2020
+11113,Indeed Job Search,BUSINESS,4.7,2500000,80000,100000000,Free,0,Everyone,Business,Varies with device,6.0 and up,1,1,2020
+11114,Kik,COMMUNICATION,4.2,3000000,100000,100000000,Free,0,Teen,Communication,16.0.0.22304,5.0 and up,1,1,2020
+11115,LastPass,TOOLS,3.8,150000,90000,10000000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2020
+11116,Letterboxd,ENTERTAINMENT,4.8,150000,70000,1000000,Free,0,Teen,Entertainment,2.11.1,8.0 and up,1,1,2020
+11117,Lyft,MAPS_AND_NAVIGATION,3.8,800000,100000,50000000,Free,0,Everyone,Maps & Navigation,Varies with device,7.0 and up,1,1,2020
+11118,Medium,NEWS_AND_MAGAZINES,4.5,250000,50000,5000000,Free,0,Teen,News & Magazines,4.1,8.0 and up,1,1,2020
+11119,Mint,FINANCE,4.4,800000,90000,10000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11120,Musixmatch,MUSIC_AND_AUDIO,4.6,2000000,80000,50000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11121,MyPlate,HEALTH_AND_FITNESS,4.7,150000,100000,5000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11122,Nike Run Club,HEALTH_AND_FITNESS,4.7,1500000,120000,50000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11123,OfferUp,SHOPPING,4.6,1500000,90000,50000000,Free,0,Teen,Shopping,Varies with device,6.0 and up,1,1,2020
+11124,OkCupid,DATING,3.8,1200000,80000,50000000,Free,0,Mature 17+,Dating,Varies with device,6.0 and up,1,1,2020
+11125,OneDrive,PRODUCTIVITY,4.6,2000000,100000,500000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11126,OneNote,PRODUCTIVITY,4.5,1500000,110000,500000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11127,OpenTable,FOOD_AND_DRINK,4.8,800000,90000,10000000,Free,0,Everyone,Food & Drink,Varies with device,7.0 and up,1,1,2020
+11128,Outlook,COMMUNICATION,4.6,5000000,120000,500000000,Free,0,Everyone,Communication,Varies with device,8.0 and up,1,1,2020
+11129,Pandora,MUSIC_AND_AUDIO,4.3,5000000,80000,100000000,Free,0,Teen,Music & Audio,Varies with device,7.0 and up,1,1,2020
+11130,Peloton,HEALTH_AND_FITNESS,4.8,400000,150000,10000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11131,PicsArt Color,ART_AND_DESIGN,4.5,200000,70000,10000000,Free,0,Everyone,Art & Design,2.5,5.0 and up,1,1,2020
+11132,Pocket,NEWS_AND_MAGAZINES,4.6,300000,50000,10000000,Free,0,Everyone,News & Magazines,Varies with device,6.0 and up,1,1,2020
+11133,Poshmark,SHOPPING,4.7,1000000,80000,50000000,Free,0,Teen,Shopping,Varies with device,7.0 and up,1,1,2020
+11134,PowerPoint,PRODUCTIVITY,4.4,2000000,100000,1000000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11135,Quora,SOCIAL,4.2,800000,50000,10000000,Free,0,Teen,Social,Varies with device,6.0 and up,1,1,2020
+11136,Reddit,SOCIAL,4.2,4000000,100000,100000000,Free,0,Mature 17+,Social,Varies with device,7.0 and up,1,1,2020
+11137,Revolut,FINANCE,4.7,1500000,120000,10000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11138,Roblox,GAME_ADVENTURE,4.4,35000000,180000,500000000,Free,0,Everyone 10+,Adventure,Varies with device,5.0 and up,1,1,2020
+11139,Signal,COMMUNICATION,4.4,1500000,90000,100000000,Free,0,Everyone,Communication,Varies with device,5.0 and up,1,1,2020
+11140,Skype,COMMUNICATION,4.1,12000000,80000,1000000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11141,Snapchat,SOCIAL,4.2,25000000,90000,1000000000,Free,0,Teen,Social,Varies with device,Varies with device,1,1,2020
+11142,SoundCloud,MUSIC_AND_AUDIO,4.6,5000000,100000,100000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11143,Starbucks,FOOD_AND_DRINK,4.5,1200000,110000,50000000,Free,0,Everyone,Food & Drink,Varies with device,8.0 and up,1,1,2020
+11144,Strava,HEALTH_AND_FITNESS,4.5,1500000,110000,100000000,Free,0,Everyone,Health & Fitness,Varies with device,Varies with device,28,10,2020
+11145,SwiftKey Keyboard,TOOLS,4.4,3000000,60000,1000000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11146,Target,SHOPPING,4.7,1500000,100000,50000000,Free,0,Everyone,Shopping,Varies with device,7.0 and up,1,1,2020
+11147,TikTok,SOCIAL,4.5,35000000,95000,1000000000,Free,0,Teen,Social,30.1.3,4.4 and up,23,5,2020
+11148,Tinder,DATING,3.6,5000000,80000,100000000,Free,0,Mature 17+,Dating,Varies with device,7.0 and up,1,1,2020
+11149,Todoist,PRODUCTIVITY,4.6,300000,70000,10000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11150,Tripadvisor,TRAVEL_AND_LOCAL,4.4,2000000,90000,100000000,Free,0,Everyone,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11151,Tumblr,SOCIAL,4.3,1500000,70000,100000000,Free,0,Mature 17+,Social,Varies with device,6.0 and up,1,1,2020
+11152,TuneIn Radio,MUSIC_AND_AUDIO,4.5,1500000,80000,100000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11153,TurboTax,FINANCE,4.6,800000,100000,10000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11154,TV Time,ENTERTAINMENT,4.5,400000,90000,5000000,Free,0,Teen,Entertainment,Varies with device,6.0 and up,1,1,2020
+11155,Twitter,NEWS_AND_MAGAZINES,3.5,20000000,100000,500000000,Free,0,Mature 17+,News & Magazines,Varies with device,Varies with device,1,1,2020
+11156,Uber Eats,FOOD_AND_DRINK,4.4,3000000,90000,100000000,Free,0,Everyone,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11157,Venmo,FINANCE,4.1,1000000,100000,50000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11158,Viber,COMMUNICATION,4.3,15000000,80000,500000000,Free,0,Everyone,Communication,Varies with device,5.0 and up,1,1,2020
+11159,Vimeo,VIDEO_PLAYERS,4.3,200000,70000,10000000,Free,0,Teen,Video Players & Editors,Varies with device,6.0 and up,1,1,2020
+11160,Vivino,FOOD_AND_DRINK,4.7,400000,90000,10000000,Free,0,Mature 17+,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11161,VSCO,PHOTOGRAPHY,3.8,1500000,100000,100000000,Free,0,Everyone,Photography,Varies with device,6.0 and up,1,1,2020
+11162,Walmart,SHOPPING,4.7,4000000,110000,100000000,Free,0,Everyone,Shopping,Varies with device,7.0 and up,1,1,2020
+11163,Wattpad,BOOKS_AND_REFERENCE,4.5,3000000,80000,100000000,Free,0,Teen,Books & Reference,Varies with device,6.0 and up,1,1,2020
+11164,WeChat,COMMUNICATION,3.8,6000000,150000,100000000,Free,0,Everyone,Communication,Varies with device,6.0 and up,1,1,2020
+11165,Wikipedia,BOOKS_AND_REFERENCE,4.6,1500000,50000,10000000,Free,0,Everyone,Books & Reference,Varies with device,Varies with device,1,1,2020
+11166,Wish,SHOPPING,4.5,15000000,80000,500000000,Free,0,Teen,Shopping,Varies with device,5.0 and up,1,1,2020
+11167,WordPress,PRODUCTIVITY,4.3,200000,60000,10000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11168,Yahoo Mail,COMMUNICATION,4.4,2500000,90000,100000000,Free,0,Everyone,Communication,Varies with device,6.0 and up,1,1,2020
+11169,Yelp,TRAVEL_AND_LOCAL,4.3,500000,80000,50000000,Free,0,Teen,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11170,YouTube,VIDEO_PLAYERS,4.3,150000000,120000,10000000000,Free,0,Teen,Video Players & Editors,Varies with device,Varies with device,1,1,2020
+11171,YouTube Kids,FAMILY,4.3,3000000,100000,1000000000,Free,0,Everyone,Family;Music & Video,Varies with device,Varies with device,1,1,2020
+11172,YouTube Music,MUSIC_AND_AUDIO,4.4,5000000,90000,1000000000,Free,0,Teen,Music & Audio,Varies with device,Varies with device,1,1,2020
+11173,YouTube TV,ENTERTAINMENT,4.1,200000,70000,10000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11174,Zillow,LIFESTYLE,4.7,1000000,100000,50000000,Free,0,Everyone,Lifestyle,Varies with device,8.0 and up,1,1,2020
+11175,1Password,TOOLS,4.2,50000,110000,1000000,Free,0,Everyone,Tools,8.10.8,9.0 and up,1,1,2020
+11176,8 Ball Pool,GAME_SPORTS,4.4,20000000,100000,1000000000,Free,0,Everyone,Sports,5.12.1,4.4 and up,1,1,2020
+11177,Aaptiv,HEALTH_AND_FITNESS,4.7,45000,120000,1000000,Free,0,Everyone,Health & Fitness,Varies with device,7.0 and up,1,1,2020
+11178,Acorns,FINANCE,4.6,200000,90000,5000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11179,Adobe Acrobat Reader,PRODUCTIVITY,4.6,3000000,150000,500000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11180,Adobe Fill & Sign,PRODUCTIVITY,4.6,400000,100000,10000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11181,Adobe Lightroom,PHOTOGRAPHY,4.6,1500000,180000,100000000,Free,0,Everyone,Photography,8.4.2,8.0 and up,1,1,2020
+11182,Adobe Photoshop Express,PHOTOGRAPHY,4.5,2000000,160000,100000000,Free,0,Everyone,Photography,Varies with device,7.1 and up,1,1,2020
+11183,Adobe Premiere Rush,VIDEO_PLAYERS,4.2,150000,200000,5000000,Free,0,Everyone,Video Players & Editors,2.8.0,9.0 and up,1,1,2020
+11184,Adobe Scan,PRODUCTIVITY,4.8,1200000,120000,50000000,Free,0,Everyone,Productivity,23.06.21,7.0 and up,1,1,2020
+11185,AllTrails,HEALTH_AND_FITNESS,4.8,400000,130000,10000000,Free,0,Everyone,Health & Fitness,Varies with device,7.0 and up,1,1,2020
+11186,Ancestry,LIFESTYLE,4.4,200000,100000,10000000,Free,0,Everyone,Lifestyle,Varies with device,7.0 and up,1,1,2020
+11187,Anchor,MUSIC_AND_AUDIO,4.5,150000,80000,5000000,Free,0,Everyone,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11188,AniList,ENTERTAINMENT,4.7,50000,60000,500000,Free,0,Teen,Entertainment,Varies with device,6.0 and up,1,1,2020
+11189,Apollo for Reddit,NEWS_AND_MAGAZINES,4.8,30000,90000,500000,Free,0,Mature 17+,News & Magazines,1.15.11,11.0 and up,1,1,2020
+11190,ArtStation,ART_AND_DESIGN,4.7,40000,70000,1000000,Free,0,Teen,Art & Design,Varies with device,6.0 and up,1,1,2020
+11191,Claude,PRODUCTIVITY,4.8,450000,70000,10000000,Free,0,Teen,Productivity,Varies with device,8.0 and up,15,3,2023
+11192,Leonardo.Ai,ART_AND_DESIGN,4.7,320000,85000,5000000,Free,0,Teen,Art & Design,1.2.5,9.0 and up,1,6,2023
+11193,ElevenLabs,MUSIC_AND_AUDIO,4.9,180000,60000,1000000,Free,0,Everyone,Music & Audio,1.1.0,9.0 and up,22,1,2024
+11194,You.com,PRODUCTIVITY,4.5,110000,55000,5000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,9,11,2021
+11195,Phind,PRODUCTIVITY,4.6,75000,50000,1000000,Free,0,Everyone,Productivity,1.3.1,8.0 and up,1,5,2023
+11196,Blackbox AI,TOOLS,4.7,95000,45000,1000000,Free,0,Everyone,Tools,1.0.8,7.0 and up,1,2,2024
+11197,Gamma App,PRODUCTIVITY,4.8,65000,70000,1000000,Free,0,Everyone,Productivity,1.2.0,9.0 and up,1,8,2023
+11198,Tome,PRODUCTIVITY,4.6,88000,75000,1000000,Free,0,Everyone,Productivity,1.1.5,9.0 and up,1,10,2022
+11199,Glean,PRODUCTIVITY,4.9,40000,90000,500000,Free,0,Everyone,Productivity,2.1.0,9.0 and up,1,2,2022
+11200,Consensus,BOOKS_AND_REFERENCE,4.8,30000,55000,500000,Free,0,Everyone,Books & Reference,1.0.12,8.0 and up,1,4,2023
+11201,HeyGen,VIDEO_PLAYERS,4.7,210000,110000,5000000,Free,0,Everyone,Video Players & Editors,2.1.0,9.0 and up,1,9,2022
+11202,Synthesia,VIDEO_PLAYERS,4.6,180000,100000,5000000,Free,0,Everyone,Video Players & Editors,3.0.1,9.0 and up,1,11,2021
+11203,Murf.ai,MUSIC_AND_AUDIO,4.8,140000,80000,1000000,Free,0,Everyone,Music & Audio,1.5.0,8.0 and up,1,10,2021
+11204,DeepL,TOOLS,4.9,3500000,65000,50000000,Free,0,Everyone,Tools,Varies with device,7.0 and up,1,1,2020
+11205,PlayHT,MUSIC_AND_AUDIO,4.7,70000,75000,1000000,Free,0,Everyone,Music & Audio,2.1.1,8.0 and up,1,3,2022
+11206,Gradio,TOOLS,4.6,25000,50000,500000,Free,0,Everyone,Tools,3.41.2,6.0 and up,1,8,2021
+11207,Hugging Face,PRODUCTIVITY,4.8,90000,95000,1000000,Free,0,Teen,Productivity,1.1.0,8.0 and up,1,3,2021
+11208,Replicate,TOOLS,4.7,40000,60000,500000,Free,0,Everyone,Tools,1.2.1,8.0 and up,1,5,2022
+11209,Civitai,ART_AND_DESIGN,4.9,150000,120000,1000000,Free,0,Mature 17+,Art & Design,1.0.25,9.0 and up,1,11,2022
+11210,TensorFlow Lite,TOOLS,4.5,18000,40000,500000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11211,PyTorch Live,TOOLS,4.6,12000,45000,200000,Free,0,Everyone,Tools,1.13.0,6.0 and up,1,10,2022
+11212,Keras,TOOLS,4.7,22000,55000,500000,Free,0,Everyone,Tools,2.11.0,6.0 and up,1,12,2021
+11213,LangChain,PRODUCTIVITY,4.9,35000,70000,500000,Free,0,Everyone,Productivity,0.0.323,8.0 and up,1,10,2022
+11214,Pinecone,TOOLS,4.8,15000,80000,200000,Free,0,Everyone,Tools,2.2.4,8.0 and up,1,4,2021
+11215,Chroma,TOOLS,4.7,11000,75000,100000,Free,0,Everyone,Tools,0.4.15,8.0 and up,1,11,2022
+11216,Weaviate,TOOLS,4.8,9000,85000,100000,Free,0,Everyone,Tools,1.21.1,8.0 and up,1,8,2021
+11217,Milvus,TOOLS,4.9,13000,95000,200000,Free,0,Everyone,Tools,2.3.1,8.0 and up,1,9,2020
+11218,Qdrant,TOOLS,4.8,8000,90000,100000,Free,0,Everyone,Tools,1.6.0,8.0 and up,1,11,2021
+11219,OpenSearch,TOOLS,4.7,28000,110000,500000,Free,0,Everyone,Tools,2.9.0,6.0 and up,1,7,2021
+11220,VectorDB,TOOLS,4.8,7000,80000,100000,Free,0,Everyone,Tools,1.0.0,8.0 and up,1,1,2023
+11221,Faraday,PRODUCTIVITY,4.9,12000,100000,100000,Free,0,Everyone,Productivity,0.3.1,10.0 and up,1,10,2023
+11222,LM Studio,TOOLS,4.8,25000,150000,200000,Free,0,Everyone,Tools,0.2.14,10.0 and up,1,11,2023
+11223,Ollama,TOOLS,4.9,32000,130000,500000,Free,0,Everyone,Tools,0.1.18,10.0 and up,1,12,2023
+11224,Jan,PRODUCTIVITY,4.8,14000,140000,100000,Free,0,Everyone,Productivity,0.4.5,10.0 and up,1,1,2024
+11225,AnythingLLM,TOOLS,4.7,9000,160000,100000,Free,0,Everyone,Tools,1.2.0,10.0 and up,1,1,2024
+11226,AutoGPT,TOOLS,4.6,45000,180000,500000,Free,0,Everyone,Tools,0.5.0,9.0 and up,1,4,2023
+11227,BabyAGI,TOOLS,4.5,35000,170000,500000,Free,0,Everyone,Tools,1.0.1,9.0 and up,1,4,2023
+11228,Godot,TOOLS,4.8,120000,200000,1000000,Free,0,Everyone,Tools,4.1.2,6.0 and up,1,1,2020
+11229,Unity,TOOLS,4.4,250000,300000,5000000,Free,0,Everyone,Tools,2022.3.10,7.0 and up,1,1,2020
+11230,Unreal Engine 5,TOOLS,4.7,180000,400000,1000000,Free,0,Everyone,Tools,5.3,8.0 and up,1,4,2022
+11231,Figma,PRODUCTIVITY,4.9,800000,120000,10000000,Free,0,Everyone,Productivity,116.14.2,8.0 and up,1,1,2020
+11232,Spline,ART_AND_DESIGN,4.8,55000,140000,1000000,Free,0,Everyone,Art & Design,1.0.8,9.0 and up,1,12,2020
+11233,Webflow,TOOLS,4.7,110000,130000,1000000,Free,0,Everyone,Tools,Varies with device,7.0 and up,1,1,2020
+11234,Framer,PRODUCTIVITY,4.8,95000,120000,1000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11235,Zapier,PRODUCTIVITY,4.7,130000,90000,5000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11236,Make,PRODUCTIVITY,4.8,85000,95000,1000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11237,Airtable,PRODUCTIVITY,4.6,150000,110000,5000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11238,Coda,PRODUCTIVITY,4.7,65000,100000,1000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11239,Retool,PRODUCTIVITY,4.8,35000,120000,500000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11240,Glide,PRODUCTIVITY,4.9,45000,110000,1000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11241,Bubble,PRODUCTIVITY,4.7,80000,130000,1000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11242,Adalo,PRODUCTIVITY,4.6,55000,120000,1000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11243,Softr,PRODUCTIVITY,4.8,25000,110000,500000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2021
+11244,AppGyver,TOOLS,4.5,45000,140000,1000000,Free,0,Everyone,Tools,Varies with device,6.0 and up,1,1,2020
+11245,FlutterFlow,TOOLS,4.9,65000,160000,1000000,Free,0,Everyone,Tools,Varies with device,7.0 and up,1,1,2021
+11246,Vercel,TOOLS,4.8,75000,90000,1000000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2020
+11247,Netlify,TOOLS,4.7,85000,85000,1000000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2020
+11248,Supabase,TOOLS,4.9,55000,100000,1000000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2020
+11249,Appwrite,TOOLS,4.8,45000,110000,500000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2020
+11250,PocketBase,TOOLS,4.9,25000,80000,200000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2022
+11266,Notion,PRODUCTIVITY,4.5,320000,55000,10000000,Free,0,Everyone,Productivity,0.6.382,7.0 and up,11,6,2018
+11267,Duolingo,EDUCATION,4.6,15000000,120000,500000000,Free,0,Everyone,Education;Family,Varies with device,Varies with device,29,5,2012
+11268,TikTok,SOCIAL,4.5,35000000,95000,1000000000,Free,0,Teen,Social,30.1.3,4.4 and up,23,5,2017
+11269,Canva,ART_AND_DESIGN,4.7,12000000,40000,100000000,Free,0,Everyone,Art & Design,Varies with device,5.0 and up,22,8,2017
+11270,Instagram,SOCIAL,4.3,140000000,60000,1000000000,Free,0,Teen,Social,Varies with device,Varies with device,3,4,2012
+11271,WhatsApp,COMMUNICATION,4.3,180000000,45000,5000000000,Free,0,Everyone,Communication,Varies with device,4.1 and up,18,10,2010
+11272,Telegram,COMMUNICATION,4.2,15000000,55000,1000000000,Free,0,Mature 17+,Communication,9.7.4,4.1 and up,20,8,2013
+11273,Zoom,BUSINESS,4.1,5000000,85000,500000000,Free,0,Everyone,Business,Varies with device,5.0 and up,21,9,2013
+11274,Spotify,MUSIC_AND_AUDIO,4.5,25000000,70000,1000000000,Free,0,Teen,Music & Audio,Varies with device,Varies with device,15,8,2011
+11275,Netflix,ENTERTAINMENT,4.4,13000000,30000,1000000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,12,5,2011
+11276,Disney+,ENTERTAINMENT,4.6,8000000,25000,100000000,Free,0,Teen,Entertainment,2.14.0-rc1,5.0 and up,12,11,2019
+11277,Pinterest,SOCIAL,4.5,11000000,50000,500000000,Free,0,Teen,Social,Varies with device,Varies with device,14,8,2012
+11278,LinkedIn,SOCIAL,4.3,8000000,75000,500000000,Free,0,Everyone,Social,Varies with device,Varies with device,19,4,2012
+11279,Uber,MAPS_AND_NAVIGATION,4.2,9000000,90000,500000000,Free,0,Everyone,Maps & Navigation,Varies with device,Varies with device,29,8,2012
+11280,Airbnb,TRAVEL_AND_LOCAL,4.7,2000000,130000,100000000,Free,0,Everyone,Travel & Local,Varies with device,Varies with device,16,7,2012
+11281,Google Photos,PHOTOGRAPHY,4.5,30000000,40000,5000000000,Free,0,Everyone,Photography,Varies with device,Varies with device,28,5,2015
+11282,Microsoft Word,PRODUCTIVITY,4.4,10000000,95000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,28,1,2015
+11283,Google Docs,PRODUCTIVITY,4.3,4000000,50000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,30,4,2014
+11284,Slack,COMMUNICATION,4.2,600000,60000,50000000,Free,0,Everyone,Communication,Varies with device,8.0 and up,12,2,2014
+11285,Trello,PRODUCTIVITY,4.6,200000,35000,10000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,23,7,2014
+11286,Asana,BUSINESS,4.7,150000,45000,10000000,Free,0,Everyone,Business,8.51.1,7.0 and up,29,1,2015
+11287,MyFitnessPal,HEALTH_AND_FITNESS,4.5,2500000,100000,50000000,Free,0,Everyone,Health & Fitness,Varies with device,Varies with device,12,9,2013
+11288,Calm,HEALTH_AND_FITNESS,4.4,600000,80000,10000000,Free,0,Everyone,Health & Fitness,6.5.0,6.0 and up,1,12,2015
+11289,Headspace,HEALTH_AND_FITNESS,4.6,500000,90000,10000000,Free,0,Everyone,Health & Fitness,4.108.0,8.0 and up,10,1,2012
+11290,Robinhood,FINANCE,4.1,1200000,85000,10000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,28,3,2015
+11291,Coinbase,FINANCE,4.3,900000,95000,50000000,Free,0,Everyone,Finance,11.45.3,8.0 and up,23,5,2014
+11292,PayPal,FINANCE,4.4,6000000,70000,100000000,Free,0,Everyone,Finance,Varies with device,Varies with device,15,3,2010
+11293,Zomato,FOOD_AND_DRINK,4.5,4000000,40000,100000000,Free,0,Everyone,Food & Drink,16.5.7,5.0 and up,10,7,2011
+11294,Amazon Shopping,SHOPPING,4.3,9000000,65000,500000000,Free,0,Teen,Shopping,Varies with device,Varies with device,10,3,2011
+11295,Etsy,SHOPPING,4.7,2000000,55000,50000000,Free,0,Teen,Shopping,Varies with device,Varies with device,5,5,2012
+11296,SHEIN,SHOPPING,4.6,7000000,80000,500000000,Free,0,Teen,Shopping,9.4.0,5.0 and up,15,5,2014
+11297,Google Classroom,EDUCATION,2.8,3000000,30000,100000000,Free,0,Everyone,Education,Varies with device,Varies with device,12,8,2014
+11298,Photomath,EDUCATION,4.6,3000000,25000,100000000,Free,0,Everyone,Education,8.19.0,5.0 and up,20,10,2014
+11299,Khan Academy,EDUCATION,4.5,300000,35000,10000000,Free,0,Everyone,Education,7.3.1,5.0 and up,15,1,2012
+11300,Coursera,EDUCATION,4.6,400000,40000,10000000,Free,0,Everyone,Education,Varies with device,Varies with device,11,9,2012
+11301,Udemy,EDUCATION,4.6,500000,45000,10000000,Free,0,Everyone,Education,Varies with device,6.0 and up,30,7,2013
+11302,Discord,COMMUNICATION,4.4,6000000,90000,500000000,Free,0,Teen,Communication,179.15,6.0 and up,13,5,2015
+11303,Twitch,ENTERTAINMENT,4.5,5000000,70000,100000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,17,2,2012
+11304,Waze,MAPS_AND_NAVIGATION,4.5,8000000,100000,100000000,Free,0,Everyone,Maps & Navigation,Varies with device,Varies with device,20,3,2010
+11305,Shazam,MUSIC_AND_AUDIO,4.8,8000000,20000,500000000,Free,0,Teen,Music & Audio,Varies with device,8.0 and up,10,7,2011
+11306,Udio,MUSIC_AND_AUDIO,4.8,35000,70000,500000,Free,0,Teen,Music & Audio,1.0.5,9.0 and up,10,4,2024
+11307,Pika Labs,VIDEO_PLAYERS,4.6,45000,95000,1000000,Free,0,Everyone,Video Players & Editors,1.2.1,10.0 and up,1,12,2023
+11308,Otter.ai,BUSINESS,4.7,85000,80000,5000000,Free,0,Everyone,Business,2.5.10,7.0 and up,15,2,2021
+11309,Fireflies.ai,PRODUCTIVITY,4.6,60000,75000,1000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,3,2021
+11310,Socratic by Google,EDUCATION,4.7,1200000,40000,10000000,Free,0,Everyone,Education,2.6.0,5.0 and up,1,3,2020
+11311,LingoDeer,EDUCATION,4.7,450000,150000,10000000,Free,0,Everyone,Education,2.99.231,5.0 and up,1,1,2020
+11312,Wuthering Waves,GAME_ROLE_PLAYING,4.5,500000,300000,5000000,Free,0,Teen,Role Playing,1.0.1,7.0 and up,22,5,2024
+11313,Solo Leveling: Arise,GAME_ACTION,4.6,350000,250000,5000000,Free,0,Teen,Action,1.1.2,9.0 and up,8,5,2024
+11314,Gas,SOCIAL,4.7,600000,70000,5000000,Free,0,Teen,Social,1.35.0,11.0 and up,1,8,2022
+11315,Artifact by Yahoo News,NEWS_AND_MAGAZINES,4.6,15000,35000,500000,Free,0,Teen,News & Magazines,1.2.0,8.0 and up,22,2,2023
+11316,Delta Executor,TOOLS,4.5,25000,40000,500000,Free,0,Everyone,Tools,1,5.0 and up,1,1,2024
+11317,Blox Fruits,GAME_ADVENTURE,4.4,12000000,150000,100000000,Free,0,Everyone 10+,Adventure,20,5.0 and up,16,1,2020
+11318,Pet Simulator X,GAME_SIMULATION,4.5,8000000,180000,50000000,Free,0,Everyone,Simulation,1.2023.1,5.0 and up,1,1,2021
+11319,Doors,GAME_ADVENTURE,4.6,2500000,200000,10000000,Free,0,Teen,Adventure,1.1.0,7.0 and up,10,8,2022
+11320,Blade Ball,GAME_ACTION,4.3,1500000,170000,10000000,Free,0,Teen,Action,1.8,7.0 and up,1,6,2023
+11321,Evade,GAME_ACTION,4.2,800000,160000,5000000,Free,0,Teen,Action,1.5,7.0 and up,1,9,2022
+11322,Livetopia,GAME_ROLE_PLAYING,4.1,900000,220000,10000000,Free,0,Everyone,Role Playing,1.9.1,5.0 and up,1,5,2021
+11323,Funky Friday,GAME_MUSIC,4.5,750000,140000,5000000,Free,0,Everyone,Music,2.7.0,5.0 and up,1,2,2021
+11324,Murder Mystery 2,GAME_ADVENTURE,4.4,9500000,190000,50000000,Free,0,Teen,Adventure,1.10.23,5.0 and up,1,1,2020
+11325,Arsenal,GAME_ACTION,4.5,3500000,210000,10000000,Free,0,Teen,Action,2.5.1,5.0 and up,18,8,2020
+11326,Adopt Me!,GAME_SIMULATION,4.3,15000000,240000,100000000,Free,0,Everyone,Simulation,1.58.0,5.0 and up,1,1,2020
+11327,GODS RAID,GAME_STRATEGY,4.6,120000,300000,1000000,Free,0,Teen,Strategy,0.2.32,9.0 and up,28,2,2024
+11328,Squad Busters,GAME_STRATEGY,4.4,800000,280000,10000000,Free,0,Everyone 10+,Strategy,25.132,5.1 and up,29,5,2024
+11329,Frostpunk: Beyond the Ice,GAME_STRATEGY,4.5,90000,400000,1000000,Free,0,Teen,Strategy,1.0.5,8.0 and up,1,2,2024
+11330,EA SPORTS FC Tactical,GAME_SPORTS,4.3,250000,350000,5000000,Free,0,Everyone,Sports,1.2.0,6.0 and up,18,1,2024
+11331,AFK Journey,GAME_ROLE_PLAYING,4.6,400000,380000,5000000,Free,0,Teen,Role Playing,1.1.5,7.0 and up,27,3,2024
+11332,BloodStrike,GAME_ACTION,4.4,1200000,320000,10000000,Free,0,Mature 17+,Action,1.0.3,5.0 and up,21,9,2023
+11333,High Energy Heroes,GAME_ACTION,4.5,800000,400000,10000000,Free,0,Teen,Action,1.5.1,6.0 and up,1,10,2023
+11334,CarX Street,GAME_RACING,4.2,2500000,500000,50000000,Free,0,Everyone,Racing,0.9.3,9.0 and up,27,10,2022
+11335,Racing Master,GAME_RACING,4.4,600000,450000,10000000,Free,0,Everyone,Racing,1.2.1,6.0 and up,18,10,2021
+11336,The Finals,GAME_ACTION,4.6,30000,600000,500000,Free,0,Teen,Action,1,9.0 and up,7,12,2023
+11337,Gray Zone Warfare,GAME_ACTION,4.5,25000,700000,500000,Free,0,Mature 17+,Action,1,10.0 and up,30,4,2024
+11338,Marvel Rivals,GAME_ACTION,4.7,40000,550000,1000000,Free,0,Teen,Action,1,10.0 and up,1,5,2024
+11339,Honor of Kings,GAME_STRATEGY,4.3,15000000,400000,100000000,Free,0,Teen,Strategy,3.9.1.18,5.1 and up,20,6,2024
+11340,Exoprimal,GAME_ACTION,4.2,60000,800000,1000000,Free,0,Mature 17+,Action,1.0.2,10.0 and up,14,7,2023
+11341,Palworld,GAME_ADVENTURE,4.6,120000,900000,1000000,Free,0,Teen,Adventure,0.1.5.1,10.0 and up,19,1,2024
+11342,Lethal Company,GAME_ACTION,4.8,95000,200000,1000000,Free,0,Mature 17+,Action,45,8.0 and up,23,10,2023
+11343,Enshrouded,GAME_ROLE_PLAYING,4.5,45000,1000000,500000,Free,0,Teen,Role Playing,0.7.1.0,10.0 and up,24,1,2024
+11344,Nightingale,GAME_ROLE_PLAYING,4.3,30000,1200000,500000,Free,0,Teen,Role Playing,0.1.2,10.0 and up,20,2,2024
+11345,Pacific Drive,GAME_ADVENTURE,4.7,25000,800000,500000,Free,0,Teen,Adventure,1.1.4,10.0 and up,22,2,2024
+11346,Helldivers 2,GAME_ACTION,4.8,150000,1000000,1000000,Free,0,Mature 17+,Action,1.000.102,10.0 and up,8,2,2024
+11347,Dragon's Dogma 2,GAME_ROLE_PLAYING,4.4,80000,1500000,1000000,Free,0,Mature 17+,Role Playing,1.05,10.0 and up,22,3,2024
+11348,Rise of the Ronin,GAME_ACTION,4.6,60000,1300000,1000000,Free,0,Mature 17+,Action,1.02,10.0 and up,22,3,2024
+11349,Stellar Blade,GAME_ACTION,4.9,75000,1200000,1000000,Free,0,Mature 17+,Action,1.002,11.0 and up,26,4,2024
+11350,Black Myth: Wukong,GAME_ACTION,4.9,120000,1800000,1000000,Free,0,Mature 17+,Action,1.0.1,11.0 and up,20,8,2024
+11351,S.T.A.L.K.E.R. 2,GAME_ACTION,4.7,95000,2000000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,5,9,2024
+11352,Avowed,GAME_ROLE_PLAYING,4.6,80000,1600000,1000000,Free,0,Mature 17+,Role Playing,1,11.0 and up,1,11,2024
+11353,Indiana Jones and the Great Circle,GAME_ADVENTURE,4.8,65000,1400000,1000000,Free,0,Teen,Adventure,1,11.0 and up,1,12,2024
+11354,Fable,GAME_ROLE_PLAYING,4.7,90000,1700000,1000000,Free,0,Teen,Role Playing,1,11.0 and up,1,10,2025
+11355,Perfect Dark,GAME_ACTION,4.6,70000,1600000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,1,9,2025
+11356,State of Decay 3,GAME_ACTION,4.5,85000,1900000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,1,8,2025
+11357,The Elder Scrolls VI,GAME_ROLE_PLAYING,4.9,250000,2500000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,1,2026
+11358,Grand Theft Auto VI,GAME_ACTION,5,500000,3000000,1000000,Free,0,Mature 17+,Action,1,12.0 and up,1,4,2025
+11359,Mass Effect 5,GAME_ROLE_PLAYING,4.8,180000,2200000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,5,2026
+11360,The Witcher 4,GAME_ROLE_PLAYING,4.9,220000,2400000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,6,2026
+11361,Cyberpunk 2,GAME_ROLE_PLAYING,4.7,190000,2300000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,7,2027
+11362,Kards,GAME_CARD,4.4,25000,300000,500000,Free,0,Teen,Card,1.0.35,6.0 and up,19,4,2020
+11363,Legends of Runeterra,GAME_CARD,4.5,1200000,180000,10000000,Free,0,Teen,Card,04.10.012,6.0 and up,29,4,2020
+11364,Gwent,GAME_CARD,4.6,250000,160000,5000000,Free,0,Teen,Card,11.10.0,7.0 and up,24,3,2020
+11365,Yu-Gi-Oh! Master Duel,GAME_CARD,4.2,800000,200000,10000000,Free,0,Teen,Card,1.8.1,6.0 and up,18,1,2022
+11366,Storybook Brawl,GAME_CARD,4.3,15000,250000,500000,Free,0,Teen,Card,0.68.2,7.0 and up,17,6,2021
+11367,The King of Fighters ALLSTAR,GAME_ACTION,4.1,900000,150000,10000000,Free,0,Teen,Action,1.13.4,4.4 and up,22,10,2020
+11368,SINoALICE,GAME_ROLE_PLAYING,4,300000,180000,5000000,Free,0,Teen,Role Playing,10.1.0,5.0 and up,1,7,2020
+11369,Guardian Tales,GAME_ROLE_PLAYING,4.7,1500000,200000,10000000,Free,0,Teen,Role Playing,2.70.1,5.0 and up,28,7,2020
+11370,Cookie Run: Kingdom,GAME_ROLE_PLAYING,4.6,1800000,220000,10000000,Free,0,Everyone 10+,Role Playing,4.13,5.1 and up,21,1,2021
+11371,NieR Re[in]carnation,GAME_ROLE_PLAYING,4.2,250000,250000,5000000,Free,0,Teen,Role Playing,2.21.10,7.0 and up,28,7,2021
+11372,Blue Archive,GAME_ROLE_PLAYING,4.6,600000,300000,5000000,Free,0,Teen,Role Playing,1.46.195,5.0 and up,8,11,2021
+11373,Punishing: Gray Raven,GAME_ACTION,4.4,400000,350000,5000000,Free,0,Teen,Action,2.4.0,5.0 and up,16,7,2021
+11374,Alchemy Stars,GAME_ROLE_PLAYING,4.5,350000,400000,5000000,Free,0,Teen,Role Playing,1.12.2,5.0 and up,17,6,2021
+11375,Figure Fantasy,GAME_ROLE_PLAYING,4.3,150000,450000,1000000,Free,0,Teen,Role Playing,5.0.1,5.0 and up,24,11,2021
+11376,Counterside,GAME_ROLE_PLAYING,4.2,120000,500000,1000000,Free,0,Teen,Role Playing,1.13.0,7.0 and up,27,5,2022
+11377,Noah's Heart,GAME_ROLE_PLAYING,4.1,180000,600000,1000000,Free,0,Teen,Role Playing,1.0.15,6.0 and up,28,7,2022
+11378,Neural Cloud,GAME_ROLE_PLAYING,4.4,160000,550000,1000000,Free,0,Teen,Role Playing,1.3.1,6.0 and up,21,11,2022
+11379,Path to Nowhere,GAME_STRATEGY,4.7,220000,650000,1000000,Free,0,Teen,Strategy,1.1.2,7.0 and up,27,10,2022
+11380,MementoMori,GAME_ROLE_PLAYING,4.5,300000,700000,1000000,Free,0,Teen,Role Playing,2.15.0,7.0 and up,18,10,2022
+11381,Goddess of Victory: NIKKE,GAME_ROLE_PLAYING,4.6,1200000,750000,10000000,Free,0,Teen,Role Playing,113.3.14,7.0 and up,4,11,2022
+11382,Limbus Company,GAME_ROLE_PLAYING,4.7,180000,800000,1000000,Free,0,Mature 17+,Role Playing,1.19.1,7.0 and up,26,2,2023
+11383,Aether Gazer,GAME_ACTION,4.3,140000,900000,1000000,Free,0,Teen,Action,1.4.0,7.0 and up,23,5,2023
+11384,Brown Dust 2,GAME_ROLE_PLAYING,4.4,130000,850000,1000000,Free,0,Teen,Role Playing,1.39.5,6.0 and up,21,6,2023
+11385,Outerplane,GAME_ROLE_PLAYING,4.5,110000,950000,1000000,Free,0,Teen,Role Playing,1.4.1,7.0 and up,23,5,2023
+11386,Reverse: 1999,GAME_ROLE_PLAYING,4.8,450000,1000000,1000000,Free,0,Teen,Role Playing,1.5.0,6.0 and up,26,10,2023
+11387,Zen Match,GAME_BOARD,4.8,1200000,150000,10000000,Free,0,Everyone,Board,1.15.1,5.0 and up,1,1,2021
+11388,Parking Jam 3D,GAME_PUZZLE,4.6,1500000,180000,100000000,Free,0,Everyone,Puzzle,1.1.2.0,5.1 and up,1,1,2020
+11389,Water Sort Puzzle,GAME_PUZZLE,4.7,5000000,120000,100000000,Free,0,Everyone,Puzzle,10.0.1,4.4 and up,1,1,2020
+11390,Wordle,GAME_WORD,4.8,800000,80000,10000000,Free,0,Everyone,Word,Varies with device,7.0 and up,1,1,2022
+11391,Pikmin Bloom,GAME_SIMULATION,4.5,300000,140000,5000000,Free,0,Everyone,Simulation,82,6.0 and up,26,10,2021
+11392,Peridot,GAME_SIMULATION,4.2,120000,160000,1000000,Free,0,Everyone,Simulation,1.15.1,9.0 and up,9,5,2023
+11393,Demeo,GAME_BOARD,4.6,5000,500000,50000,Paid,19.99,Teen,Board,1.29.18,10.0 and up,1,4,2023
+11394,Vampire Survivors,GAME_ACTION,4.8,400000,300000,5000000,Free,0,Teen,Action,1.8.106,7.0 and up,8,12,2022
+11395,Desta: The Memories Between,GAME_STRATEGY,4.7,8000,600000,100000,Free,0,Everyone 10+,Strategy,1.4.2,8.0 and up,27,9,2022
+11396,Terra Nil,GAME_STRATEGY,4.5,12000,400000,200000,Free,0,Everyone,Strategy,1.1.30,8.0 and up,28,3,2023
+11397,Before Your Eyes,GAME_ADVENTURE,4.9,15000,800000,100000,Free,0,Teen,Adventure,1.1.1,8.0 and up,26,7,2022
+11398,IMMORTALITY,GAME_ADVENTURE,4.7,9000,1000000,100000,Free,0,Mature 17+,Adventure,1.1.0,11.0 and up,29,8,2022
+11399,Oxenfree II: Lost Signals,GAME_ADVENTURE,4.6,11000,1200000,100000,Free,0,Teen,Adventure,1.0.3,8.0 and up,12,7,2023
+11400,TMNT: Shredder's Revenge,GAME_ACTION,4.8,18000,900000,200000,Free,0,Everyone 10+,Action,1.0.29,8.0 and up,17,1,2023
+11401,Shovel Knight Pocket Dungeon,GAME_PUZZLE,4.7,6000,700000,50000,Free,0,Everyone 10+,Puzzle,1.2.1,8.0 and up,13,6,2023
+11402,Valiant Hearts: Coming Home,GAME_ADVENTURE,4.9,13000,1000000,100000,Free,0,Teen,Adventure,1.0.1,8.0 and up,31,1,2023
+11403,Dead Cells,GAME_ACTION,4.8,150000,800000,1000000,Paid,8.99,Teen,Action,3.3.6,7.0 and up,3,6,2020
+11404,Slay the Spire,GAME_CARD,4.7,80000,600000,500000,Paid,9.99,Teen,Card,2.2.8,5.1 and up,3,2,2021
+11405,Northgard,GAME_STRATEGY,4.4,12000,700000,100000,Paid,8.99,Teen,Strategy,1.7.4,7.0 and up,24,8,2021
+11406,My Friend Pedro: Ripe for Revenge,GAME_ACTION,4.6,200000,150000,5000000,Free,0,Teen,Action,1.1,6.0 and up,5,8,2021
+11407,Poinpy,GAME_ACTION,4.8,9000,200000,100000,Free,0,Everyone,Action,1.0.12,8.0 and up,10,6,2022
+11408,Into the Breach,GAME_STRATEGY,4.7,25000,300000,200000,Free,0,Everyone 10+,Strategy,1.2.85,8.0 and up,19,7,2022
+11409,Twelve Minutes,GAME_ADVENTURE,4.3,15000,900000,100000,Free,0,Mature 17+,Adventure,1.0.3,8.0 and up,13,12,2022
+11410,Teardown Mobile,GAME_SIMULATION,4.5,40000,600000,500000,Free,0,Teen,Simulation,1.0.1,9.0 and up,1,5,2024
+11411,Manor Lords,GAME_STRATEGY,4.8,35000,800000,500000,Free,0,Teen,Strategy,0.7.955,10.0 and up,26,4,2024
+11412,Hades,GAME_ROLE_PLAYING,4.9,60000,1500000,500000,Free,0,Teen,Role Playing,1.38363,10.0 and up,19,3,2024
+11413,Frost Giant,GAME_STRATEGY,4.7,20000,900000,200000,Free,0,Teen,Strategy,1.0.0,9.0 and up,1,8,2024
+11414,Light No Fire,GAME_ADVENTURE,4.8,50000,2000000,500000,Free,0,Teen,Adventure,1,11.0 and up,1,12,2024
+11415,Marathon Mobile,GAME_ACTION,4.6,45000,1800000,500000,Free,0,Mature 17+,Action,1,11.0 and up,1,6,2025
+11416,Fairgame$,GAME_ACTION,4.4,30000,1600000,500000,Free,0,Mature 17+,Action,1,11.0 and up,1,7,2025
+11417,Concord,GAME_ACTION,4.5,35000,1700000,500000,Free,0,Teen,Action,1,11.0 and up,1,8,2024
+11418,Delta Force,GAME_ACTION,4.6,60000,1900000,1000000,Free,0,Mature 17+,Action,1,10.0 and up,1,10,2024
+11419,Zenless Zone Zero,GAME_ACTION,4.8,80000,250000,1000000,Free,0,Teen,Action,1.0.0,8.0 and up,1,7,2024
+11420,Arknights: Endfield,GAME_ROLE_PLAYING,4.7,60000,220000,1000000,Free,0,Teen,Role Playing,1.0.0,8.0 and up,1,1,2024
+11421,Path of Exile Mobile,GAME_ROLE_PLAYING,4.6,45000,250000,500000,Free,0,Mature 17+,Role Playing,1.0.0,9.0 and up,1,1,2024
+11422,Warframe Mobile,GAME_ACTION,4.5,75000,200000,1000000,Free,0,Mature 17+,Action,1.0.0,9.0 and up,1,2,2024
+11423,Rainbow Six Mobile,GAME_ACTION,4.4,120000,180000,5000000,Free,0,Mature 17+,Action,1.3.0,6.0 and up,1,4,2023
+11424,XDefiant Mobile,GAME_ACTION,4.3,40000,160000,1000000,Free,0,Teen,Action,1.0.0,8.0 and up,1,6,2024
+11425,Skate Mobile,GAME_SPORTS,4.6,30000,150000,500000,Free,0,Teen,Sports,1.0.0,9.0 and up,1,8,2024
+11426,The Sims 5 Mobile,GAME_SIMULATION,4.5,25000,200000,500000,Free,0,Teen,Simulation,1.0.0,9.0 and up,1,9,2024
+11427,Grand Theft Auto: The Trilogy,GAME_ACTION,4.2,15000,300000,100000,Paid,19.99,Mature 17+,Action,1.0.2,9.0 and up,14,12,2023
+11428,Beeper,COMMUNICATION,4.4,20000,90000,500000,Free,0,Everyone,Communication,1.0.71,8.0 and up,1,12,2023
+11429,Arc Search,PRODUCTIVITY,4.7,10000,80000,200000,Free,0,Everyone,Productivity,1.0.3,11.0 and up,30,1,2024
+11430,Microsoft Designer,ART_AND_DESIGN,4.6,8000,70000,100000,Free,0,Everyone,Art & Design,1.0.15,9.0 and up,1,4,2023
+11431,Google Vids,VIDEO_PLAYERS,4.5,5000,60000,50000,Free,0,Everyone,Video Players & Editors,1.0.0,9.0 and up,1,6,2024
+11432,Meta AI,PRODUCTIVITY,4.4,12000,75000,1000000,Free,0,Teen,Productivity,1.0.0,9.0 and up,1,4,2024
+11433,Suno AI,MUSIC_AND_AUDIO,4.7,25000,65000,500000,Free,0,Teen,Music & Audio,1.1.0,9.0 and up,1,3,2024
+11434,Adobe Express,ART_AND_DESIGN,4.7,1500000,120000,10000000,Free,0,Everyone,Art & Design,Varies with device,8.0 and up,1,1,2020
+11435,Amazon Prime Video,ENTERTAINMENT,4.4,5000000,60000,500000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11436,Autodesk SketchBook,ART_AND_DESIGN,4.3,800000,90000,50000000,Free,0,Everyone,Art & Design,Varies with device,5.0 and up,1,1,2020
+11437,Bumble,DATING,4.1,1200000,80000,50000000,Free,0,Mature 17+,Dating,Varies with device,6.0 and up,1,1,2020
+11438,Cash App,FINANCE,4.7,3500000,100000,50000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11439,Crunchyroll,ENTERTAINMENT,3.9,1500000,70000,50000000,Free,0,Teen,Entertainment,Varies with device,8.0 and up,1,1,2020
+11440,DoorDash,FOOD_AND_DRINK,4.6,3000000,90000,50000000,Free,0,Everyone,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11441,Dropbox,PRODUCTIVITY,4.3,2000000,100000,500000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11442,eBay,SHOPPING,4.7,5000000,80000,100000000,Free,0,Teen,Shopping,Varies with device,6.0 and up,1,1,2020
+11443,ESPN,SPORTS,4.4,1200000,90000,50000000,Free,0,Everyone,Sports,Varies with device,6.0 and up,1,1,2020
+11444,Evernote,PRODUCTIVITY,4.2,1800000,110000,100000000,Free,0,Everyone,Productivity,10.49,7.0 and up,1,1,2020
+11445,Facebook Lite,SOCIAL,4.1,25000000,5000,1000000000,Free,0,Teen,Social,Varies with device,Varies with device,1,1,2020
+11446,Fitbit,HEALTH_AND_FITNESS,3.8,800000,120000,50000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11447,Flickr,PHOTOGRAPHY,4.2,500000,80000,10000000,Free,0,Teen,Photography,4.15.5,5.0 and up,1,1,2020
+11448,Flipboard,NEWS_AND_MAGAZINES,4.1,1200000,60000,500000000,Free,0,Everyone 10+,News & Magazines,4.2.100,5.0 and up,1,1,2020
+11449,Foursquare City Guide,TRAVEL_AND_LOCAL,4.1,1000000,70000,50000000,Free,0,Teen,Travel & Local,12.1.2,7.0 and up,1,1,2020
+11450,Goodreads,BOOKS_AND_REFERENCE,4.1,500000,80000,10000000,Free,0,Teen,Books & Reference,Varies with device,6.0 and up,1,1,2020
+11451,Google Arts & Culture,EDUCATION,4.6,400000,50000,10000000,Free,0,Everyone,Education,Varies with device,5.0 and up,1,1,2020
+11452,Google Authenticator,TOOLS,4.1,400000,30000,100000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11453,Google Calendar,PRODUCTIVITY,4.4,2500000,60000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11454,Google Chat,COMMUNICATION,4.1,800000,70000,100000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11455,Google Chrome,COMMUNICATION,4.2,18000000,90000,10000000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11456,Google Drive,PRODUCTIVITY,4.3,8000000,80000,5000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11457,Google Earth,TRAVEL_AND_LOCAL,4.4,3000000,40000,100000000,Free,0,Everyone,Travel & Local,Varies with device,5.0 and up,1,1,2020
+11458,Google Fit,HEALTH_AND_FITNESS,4.2,1200000,50000,100000000,Free,0,Everyone,Health & Fitness,Varies with device,Varies with device,1,1,2020
+11459,Google Home,LIFESTYLE,4.4,1500000,100000,100000000,Free,0,Everyone,Lifestyle,Varies with device,Varies with device,1,1,2020
+11460,Google Keep,PRODUCTIVITY,4.4,2000000,40000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11461,Google Maps,MAPS_AND_NAVIGATION,4.2,15000000,120000,10000000000,Free,0,Everyone,Maps & Navigation,Varies with device,Varies with device,1,1,2020
+11462,Google News,NEWS_AND_MAGAZINES,4.3,2000000,40000,1000000000,Free,0,Everyone 10+,News & Magazines,Varies with device,Varies with device,1,1,2020
+11463,Google Pay,FINANCE,4.2,3000000,60000,500000000,Free,0,Everyone,Finance,Varies with device,Varies with device,1,1,2020
+11464,Google Play Books,BOOKS_AND_REFERENCE,4.2,1800000,50000,1000000000,Free,0,Teen,Books & Reference,Varies with device,Varies with device,1,1,2020
+11465,Google Play Games,ENTERTAINMENT,4.3,9000000,60000,5000000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,1,1,2020
+11461,Google Maps,MAPS_AND_NAVIGATION,4.2,15000000,120000,10000000000,Free,0,Everyone,Maps & Navigation,Varies with device,Varies with device,1,1,2020
+11462,Google News,NEWS_AND_MAGAZINES,4.3,2000000,40000,1000000000,Free,0,Everyone 10+,News & Magazines,Varies with device,Varies with device,1,1,2020
+11463,Google Pay,FINANCE,4.2,3000000,60000,500000000,Free,0,Everyone,Finance,Varies with device,Varies with device,1,1,2020
+11464,Google Play Books,BOOKS_AND_REFERENCE,4.2,1800000,50000,1000000000,Free,0,Teen,Books & Reference,Varies with device,Varies with device,1,1,2020
+11465,Google Play Games,ENTERTAINMENT,4.3,9000000,60000,5000000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,1,1,2020
+11466,Google Play Music,MUSIC_AND_AUDIO,4,9000000,70000,5000000000,Free,0,Teen,Music & Audio,Varies with device,Varies with device,1,1,2020
+11467,Google Sheets,PRODUCTIVITY,4.3,2000000,70000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11468,Google Slides,PRODUCTIVITY,4.2,1000000,80000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11469,Google Street View,TRAVEL_AND_LOCAL,4.3,2500000,50000,1000000000,Free,0,Everyone,Travel & Local,Varies with device,Varies with device,1,1,2020
+11470,Google Translate,TOOLS,4.4,8000000,60000,1000000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11471,GroupMe,COMMUNICATION,4.6,800000,90000,10000000,Free,0,Everyone,Communication,5.56.2,6.0 and up,1,1,2020
+11472,Grubhub,FOOD_AND_DRINK,4.6,1500000,100000,50000000,Free,0,Everyone,Food & Drink,Varies with device,7.0 and up,1,1,2020
+11473,Hinge,DATING,3.8,400000,110000,10000000,Free,0,Mature 17+,Dating,9.17.0,7.0 and up,1,1,2020
+11474,Hotels.com,TRAVEL_AND_LOCAL,4.7,1200000,100000,50000000,Free,0,Everyone,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11475,Hulu,ENTERTAINMENT,4.1,1500000,80000,100000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11476,IFTTT,PRODUCTIVITY,4.2,150000,40000,5000000,Free,0,Everyone,Productivity,4.11.1,6.0 and up,1,1,2020
+11477,IMDb,ENTERTAINMENT,4.4,1500000,90000,100000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,1,1,2020
+11478,Indeed Job Search,BUSINESS,4.7,2500000,80000,100000000,Free,0,Everyone,Business,Varies with device,6.0 and up,1,1,2020
+11479,Kik,COMMUNICATION,4.2,3000000,100000,100000000,Free,0,Teen,Communication,16.0.0.22304,5.0 and up,1,1,2020
+11480,LastPass,TOOLS,3.8,150000,90000,10000000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2020
+11481,Letterboxd,ENTERTAINMENT,4.8,150000,70000,1000000,Free,0,Teen,Entertainment,2.11.1,8.0 and up,1,1,2020
+11482,Lyft,MAPS_AND_NAVIGATION,3.8,800000,100000,50000000,Free,0,Everyone,Maps & Navigation,Varies with device,7.0 and up,1,1,2020
+11483,Medium,NEWS_AND_MAGAZINES,4.5,250000,50000,5000000,Free,0,Teen,News & Magazines,4.1,8.0 and up,1,1,2020
+11484,Mint,FINANCE,4.4,800000,90000,10000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11485,Musixmatch,MUSIC_AND_AUDIO,4.6,2000000,80000,50000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11486,MyPlate,HEALTH_AND_FITNESS,4.7,150000,100000,5000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11487,Nike Run Club,HEALTH_AND_FITNESS,4.7,1500000,120000,50000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11488,OfferUp,SHOPPING,4.6,1500000,90000,50000000,Free,0,Teen,Shopping,Varies with device,6.0 and up,1,1,2020
+11489,OkCupid,DATING,3.8,1200000,80000,50000000,Free,0,Mature 17+,Dating,Varies with device,6.0 and up,1,1,2020
+11490,OneDrive,PRODUCTIVITY,4.6,2000000,100000,500000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11491,OneNote,PRODUCTIVITY,4.5,1500000,110000,500000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11492,OpenTable,FOOD_AND_DRINK,4.8,800000,90000,10000000,Free,0,Everyone,Food & Drink,Varies with device,7.0 and up,1,1,2020
+11493,Outlook,COMMUNICATION,4.6,5000000,120000,500000000,Free,0,Everyone,Communication,Varies with device,8.0 and up,1,1,2020
+11494,Pandora,MUSIC_AND_AUDIO,4.3,5000000,80000,100000000,Free,0,Teen,Music & Audio,Varies with device,7.0 and up,1,1,2020
+11495,Peloton,HEALTH_AND_FITNESS,4.8,400000,150000,10000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11496,PicsArt Color,ART_AND_DESIGN,4.5,200000,70000,10000000,Free,0,Everyone,Art & Design,2.5,5.0 and up,1,1,2020
+11497,Pocket,NEWS_AND_MAGAZINES,4.6,300000,50000,10000000,Free,0,Everyone,News & Magazines,Varies with device,6.0 and up,1,1,2020
+11498,Poshmark,SHOPPING,4.7,1000000,80000,50000000,Free,0,Teen,Shopping,Varies with device,7.0 and up,1,1,2020
+11499,PowerPoint,PRODUCTIVITY,4.4,2000000,100000,1000000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11500,Quora,SOCIAL,4.2,800000,50000,10000000,Free,0,Teen,Social,Varies with device,6.0 and up,1,1,2020
+11501,Reddit,SOCIAL,4.2,4000000,100000,100000000,Free,0,Mature 17+,Social,Varies with device,7.0 and up,1,1,2020
+11502,Revolut,FINANCE,4.7,1500000,120000,10000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11503,Roblox,GAME_ADVENTURE,4.4,35000000,180000,500000000,Free,0,Everyone 10+,Adventure,Varies with device,5.0 and up,1,1,2020
+11504,Signal,COMMUNICATION,4.4,1500000,90000,100000000,Free,0,Everyone,Communication,Varies with device,5.0 and up,1,1,2020
+11505,Skype,COMMUNICATION,4.1,12000000,80000,1000000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11506,Snapchat,SOCIAL,4.2,25000000,90000,1000000000,Free,0,Teen,Social,Varies with device,Varies with device,1,1,2020
+11507,SoundCloud,MUSIC_AND_AUDIO,4.6,5000000,100000,100000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11508,Starbucks,FOOD_AND_DRINK,4.5,1200000,110000,50000000,Free,0,Everyone,Food & Drink,Varies with device,8.0 and up,1,1,2020
+11509,Strava,HEALTH_AND_FITNESS,4.5,1500000,110000,100000000,Free,0,Everyone,Health & Fitness,Varies with device,Varies with device,28,10,2020
+11510,SwiftKey Keyboard,TOOLS,4.4,3000000,60000,1000000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11511,Target,SHOPPING,4.7,1500000,100000,50000000,Free,0,Everyone,Shopping,Varies with device,7.0 and up,1,1,2020
+11512,Tinder,DATING,3.6,5000000,80000,100000000,Free,0,Mature 17+,Dating,Varies with device,7.0 and up,1,1,2020
+11513,Todoist,PRODUCTIVITY,4.6,300000,70000,10000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11514,Tripadvisor,TRAVEL_AND_LOCAL,4.4,2000000,90000,100000000,Free,0,Everyone,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11515,Tumblr,SOCIAL,4.3,1500000,70000,100000000,Free,0,Mature 17+,Social,Varies with device,6.0 and up,1,1,2020
+11516,TuneIn Radio,MUSIC_AND_AUDIO,4.5,1500000,80000,100000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11517,TurboTax,FINANCE,4.6,800000,100000,10000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11518,TV Time,ENTERTAINMENT,4.5,400000,90000,5000000,Free,0,Teen,Entertainment,Varies with device,6.0 and up,1,1,2020
+11519,Twitter,NEWS_AND_MAGAZINES,3.5,20000000,100000,500000000,Free,0,Mature 17+,News & Magazines,Varies with device,Varies with device,1,1,2020
+11520,Uber Eats,FOOD_AND_DRINK,4.4,3000000,90000,100000000,Free,0,Everyone,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11521,Venmo,FINANCE,4.1,1000000,100000,50000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11522,Viber,COMMUNICATION,4.3,15000000,80000,500000000,Free,0,Everyone,Communication,Varies with device,5.0 and up,1,1,2020
+11523,Vimeo,VIDEO_PLAYERS,4.3,200000,70000,10000000,Free,0,Teen,Video Players & Editors,Varies with device,6.0 and up,1,1,2020
+11524,Vivino,FOOD_AND_DRINK,4.7,400000,90000,10000000,Free,0,Mature 17+,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11525,VSCO,PHOTOGRAPHY,3.8,1500000,100000,100000000,Free,0,Everyone,Photography,Varies with device,6.0 and up,1,1,2020
+11526,Walmart,SHOPPING,4.7,4000000,110000,100000000,Free,0,Everyone,Shopping,Varies with device,7.0 and up,1,1,2020
+11527,Wattpad,BOOKS_AND_REFERENCE,4.5,3000000,80000,100000000,Free,0,Teen,Books & Reference,Varies with device,6.0 and up,1,1,2020
+11528,WeChat,COMMUNICATION,3.8,6000000,150000,100000000,Free,0,Everyone,Communication,Varies with device,6.0 and up,1,1,2020
+11529,Wikipedia,BOOKS_AND_REFERENCE,4.6,1500000,50000,10000000,Free,0,Everyone,Books & Reference,Varies with device,Varies with device,1,1,2020
+11530,Wish,SHOPPING,4.5,15000000,80000,500000000,Free,0,Teen,Shopping,Varies with device,5.0 and up,1,1,2020
+11531,WordPress,PRODUCTIVITY,4.3,200000,60000,10000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11532,Yahoo Mail,COMMUNICATION,4.4,2500000,90000,100000000,Free,0,Everyone,Communication,Varies with device,6.0 and up,1,1,2020
+11533,Yelp,TRAVEL_AND_LOCAL,4.3,500000,80000,50000000,Free,0,Teen,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11534,YouTube,VIDEO_PLAYERS,4.3,150000000,120000,10000000000,Free,0,Teen,Video Players & Editors,Varies with device,Varies with device,1,1,2020
+11535,YouTube Kids,FAMILY,4.3,3000000,100000,1000000000,Free,0,Everyone,Family;Music & Video,Varies with device,Varies with device,1,1,2020
+11536,YouTube Music,MUSIC_AND_AUDIO,4.4,5000000,90000,1000000000,Free,0,Teen,Music & Audio,Varies with device,Varies with device,1,1,2020
+11537,YouTube TV,ENTERTAINMENT,4.1,200000,70000,10000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11538,Zillow,LIFESTYLE,4.7,1000000,100000,50000000,Free,0,Everyone,Lifestyle,Varies with device,8.0 and up,1,1,2020
+11539,1Password,TOOLS,4.2,50000,110000,1000000,Free,0,Everyone,Tools,8.10.8,9.0 and up,1,1,2020
+11540,8 Ball Pool,GAME_SPORTS,4.4,20000000,100000,1000000000,Free,0,Everyone,Sports,5.12.1,4.4 and up,1,1,2020
+11541,Aaptiv,HEALTH_AND_FITNESS,4.7,45000,120000,1000000,Free,0,Everyone,Health & Fitness,Varies with device,7.0 and up,1,1,2020
+11542,Acorns,FINANCE,4.6,200000,90000,5000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11543,Adobe Acrobat Reader,PRODUCTIVITY,4.6,3000000,150000,500000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11544,Adobe Fill & Sign,PRODUCTIVITY,4.6,400000,100000,10000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11545,Adobe Lightroom,PHOTOGRAPHY,4.6,1500000,180000,100000000,Free,0,Everyone,Photography,8.4.2,8.0 and up,1,1,2020
+11546,Adobe Photoshop Express,PHOTOGRAPHY,4.5,2000000,160000,100000000,Free,0,Everyone,Photography,Varies with device,7.1 and up,1,1,2020
+11547,Adobe Premiere Rush,VIDEO_PLAYERS,4.2,150000,200000,5000000,Free,0,Everyone,Video Players & Editors,2.8.0,9.0 and up,1,1,2020
+11548,Adobe Scan,PRODUCTIVITY,4.8,1200000,120000,50000000,Free,0,Everyone,Productivity,23.06.21,7.0 and up,1,1,2020
+11549,AllTrails,HEALTH_AND_FITNESS,4.8,400000,130000,10000000,Free,0,Everyone,Health & Fitness,Varies with device,7.0 and up,1,1,2020
+11550,Ancestry,LIFESTYLE,4.4,200000,100000,10000000,Free,0,Everyone,Lifestyle,Varies with device,7.0 and up,1,1,2020
+11551,Anchor,MUSIC_AND_AUDIO,4.5,150000,80000,5000000,Free,0,Everyone,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11552,AniList,ENTERTAINMENT,4.7,50000,60000,500000,Free,0,Teen,Entertainment,Varies with device,6.0 and up,1,1,2020
+11553,Apollo for Reddit,NEWS_AND_MAGAZINES,4.8,30000,90000,500000,Free,0,Mature 17+,News & Magazines,1.15.11,11.0 and up,1,1,2020
+11554,ArtStation,ART_AND_DESIGN,4.7,40000,70000,1000000,Free,0,Teen,Art & Design,Varies with device,6.0 and up,1,1,2020
+11555,Udio,MUSIC_AND_AUDIO,4.8,35000,70000,500000,Free,0,Teen,Music & Audio,1.0.5,9.0 and up,10,4,2024
+11556,Pika Labs,VIDEO_PLAYERS,4.6,45000,95000,1000000,Free,0,Everyone,Video Players & Editors,1.2.1,10.0 and up,1,12,2023
+11557,Wuthering Waves,GAME_ROLE_PLAYING,4.5,500000,300000,5000000,Free,0,Teen,Role Playing,1.0.1,7.0 and up,22,5,2024
+11558,Solo Leveling: Arise,GAME_ACTION,4.6,350000,250000,5000000,Free,0,Teen,Action,1.1.2,9.0 and up,8,5,2024
+11559,Gas,SOCIAL,4.7,600000,70000,5000000,Free,0,Teen,Social,1.35.0,11.0 and up,1,8,2022
+11560,Artifact by Yahoo News,NEWS_AND_MAGAZINES,4.6,15000,35000,500000,Free,0,Teen,News & Magazines,1.2.0,8.0 and up,22,2,2023
+11561,Delta Executor,TOOLS,4.5,25000,40000,500000,Free,0,Everyone,Tools,1,5.0 and up,1,1,2024
+11562,Blade Ball,GAME_ACTION,4.3,1500000,170000,10000000,Free,0,Teen,Action,1.8,7.0 and up,1,6,2023
+11563,Evade,GAME_ACTION,4.2,800000,160000,5000000,Free,0,Teen,Action,1.5,7.0 and up,1,9,2022
+11564,GODS RAID,GAME_STRATEGY,4.6,120000,300000,1000000,Free,0,Teen,Strategy,0.2.32,9.0 and up,28,2,2024
+11565,Squad Busters,GAME_STRATEGY,4.4,800000,280000,10000000,Free,0,Everyone 10+,Strategy,25.132,5.1 and up,29,5,2024
+11566,Frostpunk: Beyond the Ice,GAME_STRATEGY,4.5,90000,400000,1000000,Free,0,Teen,Strategy,1.0.5,8.0 and up,1,2,2024
+11567,EA SPORTS FC Tactical,GAME_SPORTS,4.3,250000,350000,5000000,Free,0,Everyone,Sports,1.2.0,6.0 and up,18,1,2024
+11568,AFK Journey,GAME_ROLE_PLAYING,4.6,400000,380000,5000000,Free,0,Teen,Role Playing,1.1.5,7.0 and up,27,3,2024
+11569,BloodStrike,GAME_ACTION,4.4,1200000,320000,10000000,Free,0,Mature 17+,Action,1.0.3,5.0 and up,21,9,2023
+11570,High Energy Heroes,GAME_ACTION,4.5,800000,400000,10000000,Free,0,Teen,Action,1.5.1,6.0 and up,1,10,2023
+11571,The Finals,GAME_ACTION,4.6,30000,600000,500000,Free,0,Teen,Action,1,9.0 and up,7,12,2023
+11572,Gray Zone Warfare,GAME_ACTION,4.5,25000,700000,500000,Free,0,Mature 17+,Action,1,10.0 and up,30,4,2024
+11573,Marvel Rivals,GAME_ACTION,4.7,40000,550000,1000000,Free,0,Teen,Action,1,10.0 and up,1,5,2024
+11574,Honor of Kings,GAME_STRATEGY,4.3,15000000,400000,100000000,Free,0,Teen,Strategy,3.9.1.18,5.1 and up,20,6,2024
+11575,Exoprimal,GAME_ACTION,4.2,60000,800000,1000000,Free,0,Mature 17+,Action,1.0.2,10.0 and up,14,7,2023
+11576,Palworld,GAME_ADVENTURE,4.6,120000,900000,1000000,Free,0,Teen,Adventure,0.1.5.1,10.0 and up,19,1,2024
+11577,Lethal Company,GAME_ACTION,4.8,95000,200000,1000000,Free,0,Mature 17+,Action,45,8.0 and up,23,10,2023
+11578,Enshrouded,GAME_ROLE_PLAYING,4.5,45000,1000000,500000,Free,0,Teen,Role Playing,0.7.1.0,10.0 and up,24,1,2024
+11579,Nightingale,GAME_ROLE_PLAYING,4.3,30000,1200000,500000,Free,0,Teen,Role Playing,0.1.2,10.0 and up,20,2,2024
+11580,Pacific Drive,GAME_ADVENTURE,4.7,25000,800000,500000,Free,0,Teen,Adventure,1.1.4,10.0 and up,22,2,2024
+11581,Helldivers 2,GAME_ACTION,4.8,150000,1000000,1000000,Free,0,Mature 17+,Action,1.000.102,10.0 and up,8,2,2024
+11582,Dragon's Dogma 2,GAME_ROLE_PLAYING,4.4,80000,1500000,1000000,Free,0,Mature 17+,Role Playing,1.05,10.0 and up,22,3,2024
+11583,Rise of the Ronin,GAME_ACTION,4.6,60000,1300000,1000000,Free,0,Mature 17+,Action,1.02,10.0 and up,22,3,2024
+11584,Stellar Blade,GAME_ACTION,4.9,75000,1200000,1000000,Free,0,Mature 17+,Action,1.002,11.0 and up,26,4,2024
+11585,Black Myth: Wukong,GAME_ACTION,4.9,120000,1800000,1000000,Free,0,Mature 17+,Action,1.0.1,11.0 and up,20,8,2024
+11586,S.T.A.L.K.E.R. 2,GAME_ACTION,4.7,95000,2000000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,5,9,2024
+11587,Avowed,GAME_ROLE_PLAYING,4.6,80000,1600000,1000000,Free,0,Mature 17+,Role Playing,1,11.0 and up,1,11,2024
+11588,Indiana Jones and the Great Circle,GAME_ADVENTURE,4.8,65000,1400000,1000000,Free,0,Teen,Adventure,1,11.0 and up,1,12,2024
+11589,Fable,GAME_ROLE_PLAYING,4.7,90000,1700000,1000000,Free,0,Teen,Role Playing,1,11.0 and up,1,10,2025
+11590,Perfect Dark,GAME_ACTION,4.6,70000,1600000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,1,9,2025
+11591,State of Decay 3,GAME_ACTION,4.5,85000,1900000,1000000,Free,0,Mature 17+,Action,1,11.0 and up,1,8,2025
+11592,The Elder Scrolls VI,GAME_ROLE_PLAYING,4.9,250000,2500000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,1,2026
+11593,Grand Theft Auto VI,GAME_ACTION,5,500000,3000000,1000000,Free,0,Mature 17+,Action,1,12.0 and up,1,4,2025
+11594,Mass Effect 5,GAME_ROLE_PLAYING,4.8,180000,2200000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,5,2026
+11595,The Witcher 4,GAME_ROLE_PLAYING,4.9,220000,2400000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,6,2026
+11596,Cyberpunk 2,GAME_ROLE_PLAYING,4.7,190000,2300000,1000000,Free,0,Mature 17+,Role Playing,1,12.0 and up,1,7,2027
+11691,Suno AI,MUSIC_AND_AUDIO,4.7,25000,65000,500000,Free,0,Teen,Music & Audio,1.1.0,9.0 and up,1,3,2024
+11692,Adobe Express,ART_AND_DESIGN,4.7,1500000,120000,10000000,Free,0,Everyone,Art & Design,Varies with device,8.0 and up,1,1,2020
+11693,Amazon Prime Video,ENTERTAINMENT,4.4,5000000,60000,500000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11694,Autodesk SketchBook,ART_AND_DESIGN,4.3,800000,90000,50000000,Free,0,Everyone,Art & Design,Varies with device,5.0 and up,1,1,2020
+11695,Bumble,DATING,4.1,1200000,80000,50000000,Free,0,Mature 17+,Dating,Varies with device,6.0 and up,1,1,2020
+11696,Cash App,FINANCE,4.7,3500000,100000,50000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11697,Crunchyroll,ENTERTAINMENT,3.9,1500000,70000,50000000,Free,0,Teen,Entertainment,Varies with device,8.0 and up,1,1,2020
+11698,DoorDash,FOOD_AND_DRINK,4.6,3000000,90000,50000000,Free,0,Everyone,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11699,Dropbox,PRODUCTIVITY,4.3,2000000,100000,500000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11700,eBay,SHOPPING,4.7,5000000,80000,100000000,Free,0,Teen,Shopping,Varies with device,6.0 and up,1,1,2020
+11701,ESPN,SPORTS,4.4,1200000,90000,50000000,Free,0,Everyone,Sports,Varies with device,6.0 and up,1,1,2020
+11702,Evernote,PRODUCTIVITY,4.2,1800000,110000,100000000,Free,0,Everyone,Productivity,10.49,7.0 and up,1,1,2020
+11703,Facebook Lite,SOCIAL,4.1,25000000,5000,1000000000,Free,0,Teen,Social,Varies with device,Varies with device,1,1,2020
+11704,Fitbit,HEALTH_AND_FITNESS,3.8,800000,120000,50000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11705,Flickr,PHOTOGRAPHY,4.2,500000,80000,10000000,Free,0,Teen,Photography,4.15.5,5.0 and up,1,1,2020
+11706,Flipboard,NEWS_AND_MAGAZINES,4.1,1200000,60000,500000000,Free,0,Everyone 10+,News & Magazines,4.2.100,5.0 and up,1,1,2020
+11707,Foursquare City Guide,TRAVEL_AND_LOCAL,4.1,1000000,70000,50000000,Free,0,Teen,Travel & Local,12.1.2,7.0 and up,1,1,2020
+11708,Goodreads,BOOKS_AND_REFERENCE,4.1,500000,80000,10000000,Free,0,Teen,Books & Reference,Varies with device,6.0 and up,1,1,2020
+11709,Google Arts & Culture,EDUCATION,4.6,400000,50000,10000000,Free,0,Everyone,Education,Varies with device,5.0 and up,1,1,2020
+11710,Google Authenticator,TOOLS,4.1,400000,30000,100000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11711,Google Calendar,PRODUCTIVITY,4.4,2500000,60000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11712,Google Chat,COMMUNICATION,4.1,800000,70000,100000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11713,Google Chrome,COMMUNICATION,4.2,18000000,90000,10000000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11714,Google Drive,PRODUCTIVITY,4.3,8000000,80000,5000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11715,Google Earth,TRAVEL_AND_LOCAL,4.4,3000000,40000,100000000,Free,0,Everyone,Travel & Local,Varies with device,5.0 and up,1,1,2020
+11716,Google Fit,HEALTH_AND_FITNESS,4.2,1200000,50000,100000000,Free,0,Everyone,Health & Fitness,Varies with device,Varies with device,1,1,2020
+11717,Google Home,LIFESTYLE,4.4,1500000,100000,100000000,Free,0,Everyone,Lifestyle,Varies with device,Varies with device,1,1,2020
+11718,Google Keep,PRODUCTIVITY,4.4,2000000,40000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11719,Google Maps,MAPS_AND_NAVIGATION,4.2,15000000,120000,10000000000,Free,0,Everyone,Maps & Navigation,Varies with device,Varies with device,1,1,2020
+11720,Google News,NEWS_AND_MAGAZINES,4.3,2000000,40000,1000000000,Free,0,Everyone 10+,News & Magazines,Varies with device,Varies with device,1,1,2020
+11721,Google Pay,FINANCE,4.2,3000000,60000,500000000,Free,0,Everyone,Finance,Varies with device,Varies with device,1,1,2020
+11722,Google Play Books,BOOKS_AND_REFERENCE,4.2,1800000,50000,1000000000,Free,0,Teen,Books & Reference,Varies with device,Varies with device,1,1,2020
+11723,Google Play Games,ENTERTAINMENT,4.3,9000000,60000,5000000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,1,1,2020
+11724,Google Play Music,MUSIC_AND_AUDIO,4,9000000,70000,5000000000,Free,0,Teen,Music & Audio,Varies with device,Varies with device,1,1,2020
+11725,Google Sheets,PRODUCTIVITY,4.3,2000000,70000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11726,Google Slides,PRODUCTIVITY,4.2,1000000,80000,1000000000,Free,0,Everyone,Productivity,Varies with device,Varies with device,1,1,2020
+11727,Google Street View,TRAVEL_AND_LOCAL,4.3,2500000,50000,1000000000,Free,0,Everyone,Travel & Local,Varies with device,Varies with device,1,1,2020
+11728,Google Translate,TOOLS,4.4,8000000,60000,1000000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11729,GroupMe,COMMUNICATION,4.6,800000,90000,10000000,Free,0,Everyone,Communication,5.56.2,6.0 and up,1,1,2020
+11730,Grubhub,FOOD_AND_DRINK,4.6,1500000,100000,50000000,Free,0,Everyone,Food & Drink,Varies with device,7.0 and up,1,1,2020
+11731,Hinge,DATING,3.8,400000,110000,10000000,Free,0,Mature 17+,Dating,9.17.0,7.0 and up,1,1,2020
+11732,Hotels.com,TRAVEL_AND_LOCAL,4.7,1200000,100000,50000000,Free,0,Everyone,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11733,Hulu,ENTERTAINMENT,4.1,1500000,80000,100000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11734,IFTTT,PRODUCTIVITY,4.2,150000,40000,5000000,Free,0,Everyone,Productivity,4.11.1,6.0 and up,1,1,2020
+11735,IMDb,ENTERTAINMENT,4.4,1500000,90000,100000000,Free,0,Teen,Entertainment,Varies with device,Varies with device,1,1,2020
+11736,Indeed Job Search,BUSINESS,4.7,2500000,80000,100000000,Free,0,Everyone,Business,Varies with device,6.0 and up,1,1,2020
+11737,Kik,COMMUNICATION,4.2,3000000,100000,100000000,Free,0,Teen,Communication,16.0.0.22304,5.0 and up,1,1,2020
+11738,LastPass,TOOLS,3.8,150000,90000,10000000,Free,0,Everyone,Tools,Varies with device,8.0 and up,1,1,2020
+11739,Letterboxd,ENTERTAINMENT,4.8,150000,70000,1000000,Free,0,Teen,Entertainment,2.11.1,8.0 and up,1,1,2020
+11740,Lyft,MAPS_AND_NAVIGATION,3.8,800000,100000,50000000,Free,0,Everyone,Maps & Navigation,Varies with device,7.0 and up,1,1,2020
+11741,Medium,NEWS_AND_MAGAZINES,4.5,250000,50000,5000000,Free,0,Teen,News & Magazines,4.1,8.0 and up,1,1,2020
+11742,Mint,FINANCE,4.4,800000,90000,10000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11743,Musixmatch,MUSIC_AND_AUDIO,4.6,2000000,80000,50000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11744,MyPlate,HEALTH_AND_FITNESS,4.7,150000,100000,5000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11745,Nike Run Club,HEALTH_AND_FITNESS,4.7,1500000,120000,50000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11746,OfferUp,SHOPPING,4.6,1500000,90000,50000000,Free,0,Teen,Shopping,Varies with device,6.0 and up,1,1,2020
+11747,OkCupid,DATING,3.8,1200000,80000,50000000,Free,0,Mature 17+,Dating,Varies with device,6.0 and up,1,1,2020
+11748,OneDrive,PRODUCTIVITY,4.6,2000000,100000,500000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11749,OneNote,PRODUCTIVITY,4.5,1500000,110000,500000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11750,OpenTable,FOOD_AND_DRINK,4.8,800000,90000,10000000,Free,0,Everyone,Food & Drink,Varies with device,7.0 and up,1,1,2020
+11751,Outlook,COMMUNICATION,4.6,5000000,120000,500000000,Free,0,Everyone,Communication,Varies with device,8.0 and up,1,1,2020
+11752,Pandora,MUSIC_AND_AUDIO,4.3,5000000,80000,100000000,Free,0,Teen,Music & Audio,Varies with device,7.0 and up,1,1,2020
+11753,Peloton,HEALTH_AND_FITNESS,4.8,400000,150000,10000000,Free,0,Everyone,Health & Fitness,Varies with device,8.0 and up,1,1,2020
+11754,PicsArt Color,ART_AND_DESIGN,4.5,200000,70000,10000000,Free,0,Everyone,Art & Design,2.5,5.0 and up,1,1,2020
+11755,Pocket,NEWS_AND_MAGAZINES,4.6,300000,50000,10000000,Free,0,Everyone,News & Magazines,Varies with device,6.0 and up,1,1,2020
+11756,Poshmark,SHOPPING,4.7,1000000,80000,50000000,Free,0,Teen,Shopping,Varies with device,7.0 and up,1,1,2020
+11757,PowerPoint,PRODUCTIVITY,4.4,2000000,100000,1000000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11758,Quora,SOCIAL,4.2,800000,50000,10000000,Free,0,Teen,Social,Varies with device,6.0 and up,1,1,2020
+11759,Reddit,SOCIAL,4.2,4000000,100000,100000000,Free,0,Mature 17+,Social,Varies with device,7.0 and up,1,1,2020
+11760,Revolut,FINANCE,4.7,1500000,120000,10000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11761,Roblox,GAME_ADVENTURE,4.4,35000000,180000,500000000,Free,0,Everyone 10+,Adventure,Varies with device,5.0 and up,1,1,2020
+11762,Signal,COMMUNICATION,4.4,1500000,90000,100000000,Free,0,Everyone,Communication,Varies with device,5.0 and up,1,1,2020
+11763,Skype,COMMUNICATION,4.1,12000000,80000,1000000000,Free,0,Everyone,Communication,Varies with device,Varies with device,1,1,2020
+11764,Snapchat,SOCIAL,4.2,25000000,90000,1000000000,Free,0,Teen,Social,Varies with device,Varies with device,1,1,2020
+11765,SoundCloud,MUSIC_AND_AUDIO,4.6,5000000,100000,100000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11766,Starbucks,FOOD_AND_DRINK,4.5,1200000,110000,50000000,Free,0,Everyone,Food & Drink,Varies with device,8.0 and up,1,1,2020
+11767,Strava,HEALTH_AND_FITNESS,4.5,1500000,110000,100000000,Free,0,Everyone,Health & Fitness,Varies with device,Varies with device,28,10,2020
+11768,SwiftKey Keyboard,TOOLS,4.4,3000000,60000,1000000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11769,Target,SHOPPING,4.7,1500000,100000,50000000,Free,0,Everyone,Shopping,Varies with device,7.0 and up,1,1,2020
+11770,Tinder,DATING,3.6,5000000,80000,100000000,Free,0,Mature 17+,Dating,Varies with device,7.0 and up,1,1,2020
+11771,Todoist,PRODUCTIVITY,4.6,300000,70000,10000000,Free,0,Everyone,Productivity,Varies with device,6.0 and up,1,1,2020
+11772,Tripadvisor,TRAVEL_AND_LOCAL,4.4,2000000,90000,100000000,Free,0,Everyone,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11773,Tumblr,SOCIAL,4.3,1500000,70000,100000000,Free,0,Mature 17+,Social,Varies with device,6.0 and up,1,1,2020
+11774,TuneIn Radio,MUSIC_AND_AUDIO,4.5,1500000,80000,100000000,Free,0,Teen,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11775,TurboTax,FINANCE,4.6,800000,100000,10000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11776,TV Time,ENTERTAINMENT,4.5,400000,90000,5000000,Free,0,Teen,Entertainment,Varies with device,6.0 and up,1,1,2020
+11777,Twitter,NEWS_AND_MAGAZINES,3.5,20000000,100000,500000000,Free,0,Mature 17+,News & Magazines,Varies with device,Varies with device,1,1,2020
+11778,Uber Eats,FOOD_AND_DRINK,4.4,3000000,90000,100000000,Free,0,Everyone,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11779,Venmo,FINANCE,4.1,1000000,100000,50000000,Free,0,Everyone,Finance,Varies with device,7.0 and up,1,1,2020
+11780,Viber,COMMUNICATION,4.3,15000000,80000,500000000,Free,0,Everyone,Communication,Varies with device,5.0 and up,1,1,2020
+11781,Vimeo,VIDEO_PLAYERS,4.3,200000,70000,10000000,Free,0,Teen,Video Players & Editors,Varies with device,6.0 and up,1,1,2020
+11782,Vivino,FOOD_AND_DRINK,4.7,400000,90000,10000000,Free,0,Mature 17+,Food & Drink,Varies with device,6.0 and up,1,1,2020
+11783,Walmart,SHOPPING,4.7,4000000,110000,100000000,Free,0,Everyone,Shopping,Varies with device,7.0 and up,1,1,2020
+11784,Wattpad,BOOKS_AND_REFERENCE,4.5,3000000,80000,100000000,Free,0,Teen,Books & Reference,Varies with device,6.0 and up,1,1,2020
+11785,WeChat,COMMUNICATION,3.8,6000000,150000,100000000,Free,0,Everyone,Communication,Varies with device,6.0 and up,1,1,2020
+11786,Wikipedia,BOOKS_AND_REFERENCE,4.6,1500000,50000,10000000,Free,0,Everyone,Books & Reference,Varies with device,Varies with device,1,1,2020
+11787,Wish,SHOPPING,4.5,15000000,80000,500000000,Free,0,Teen,Shopping,Varies with device,5.0 and up,1,1,2020
+11788,WordPress,PRODUCTIVITY,4.3,200000,60000,10000000,Free,0,Everyone,Productivity,Varies with device,8.0 and up,1,1,2020
+11789,Yahoo Mail,COMMUNICATION,4.4,2500000,90000,100000000,Free,0,Everyone,Communication,Varies with device,6.0 and up,1,1,2020
+11790,Yelp,TRAVEL_AND_LOCAL,4.3,500000,80000,50000000,Free,0,Teen,Travel & Local,Varies with device,7.0 and up,1,1,2020
+11791,YouTube Kids,FAMILY,4.3,3000000,100000,1000000000,Free,0,Everyone,Family;Music & Video,Varies with device,Varies with device,1,1,2020
+11792,YouTube Music,MUSIC_AND_AUDIO,4.4,5000000,90000,1000000000,Free,0,Teen,Music & Audio,Varies with device,Varies with device,1,1,2020
+11793,YouTube TV,ENTERTAINMENT,4.1,200000,70000,10000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11794,Zillow,LIFESTYLE,4.7,1000000,100000,50000000,Free,0,Everyone,Lifestyle,Varies with device,8.0 and up,1,1,2020
+11795,1Password,TOOLS,4.2,50000,110000,1000000,Free,0,Everyone,Tools,8.10.8,9.0 and up,1,1,2020
+11796,8 Ball Pool,GAME_SPORTS,4.4,20000000,100000,1000000000,Free,0,Everyone,Sports,5.12.1,4.4 and up,1,1,2020
+11797,Aaptiv,HEALTH_AND_FITNESS,4.7,45000,120000,1000000,Free,0,Everyone,Health & Fitness,Varies with device,7.0 and up,1,1,2020
+11798,Acorns,FINANCE,4.6,200000,90000,5000000,Free,0,Everyone,Finance,Varies with device,6.0 and up,1,1,2020
+11799,Adobe Acrobat Reader,PRODUCTIVITY,4.6,3000000,150000,500000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11800,Adobe Fill & Sign,PRODUCTIVITY,4.6,400000,100000,10000000,Free,0,Everyone,Productivity,Varies with device,7.0 and up,1,1,2020
+11801,Adobe Lightroom,PHOTOGRAPHY,4.6,1500000,180000,100000000,Free,0,Everyone,Photography,8.4.2,8.0 and up,1,1,2020
+11802,Adobe Photoshop Express,PHOTOGRAPHY,4.5,2000000,160000,100000000,Free,0,Everyone,Photography,Varies with device,7.1 and up,1,1,2020
+11803,Adobe Premiere Rush,VIDEO_PLAYERS,4.2,150000,200000,5000000,Free,0,Everyone,Video Players & Editors,2.8.0,9.0 and up,1,1,2020
+11804,Adobe Scan,PRODUCTIVITY,4.8,1200000,120000,50000000,Free,0,Everyone,Productivity,23.06.21,7.0 and up,1,1,2020
+11805,AllTrails,HEALTH_AND_FITNESS,4.8,400000,130000,10000000,Free,0,Everyone,Health & Fitness,Varies with device,7.0 and up,1,1,2020
+11806,Ancestry,LIFESTYLE,4.4,200000,100000,10000000,Free,0,Everyone,Lifestyle,Varies with device,7.0 and up,1,1,2020
+11807,Anchor,MUSIC_AND_AUDIO,4.5,150000,80000,5000000,Free,0,Everyone,Music & Audio,Varies with device,6.0 and up,1,1,2020
+11808,AniList,ENTERTAINMENT,4.7,50000,60000,500000,Free,0,Teen,Entertainment,Varies with device,6.0 and up,1,1,2020
+11809,Apollo for Reddit,NEWS_AND_MAGAZINES,4.8,30000,90000,500000,Free,0,Mature 17+,News & Magazines,1.15.11,11.0 and up,1,1,2020
+11810,ArtStation,ART_AND_DESIGN,4.7,40000,70000,1000000,Free,0,Teen,Art & Design,Varies with device,6.0 and up,1,1,2020
+11811,Brave Browser,COMMUNICATION,4.8,1200000,120000,100000000,Free,0,Everyone,Communication,1.57.62,7.0 and up,1,1,2020
+11812,DuckDuckGo,TOOLS,4.7,1500000,80000,50000000,Free,0,Everyone,Tools,5.161.0,6.0 and up,1,1,2020
+11813,Firefox Focus,COMMUNICATION,4.6,300000,10000,10000000,Free,0,Everyone,Communication,105.1.0,5.0 and up,1,1,2020
+11814,Bitwarden,TOOLS,4.7,120000,90000,5000000,Free,0,Everyone,Tools,2023.7.0,8.0 and up,1,1,2020
+11815,Proton Mail,COMMUNICATION,4.5,200000,100000,10000000,Free,0,Everyone,Communication,3.0.12,6.0 and up,1,1,2020
+11816,Tutanota,COMMUNICATION,4.4,80000,90000,5000000,Free,0,Everyone,Communication,3.116.3,6.0 and up,1,1,2020
+11817,NordVPN,TOOLS,4.5,800000,100000,50000000,Free,0,Everyone,Tools,Varies with device,7.0 and up,1,1,2020
+11818,ExpressVPN,TOOLS,4.4,700000,90000,50000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11819,Surfshark,TOOLS,4.3,300000,80000,10000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11820,Proton VPN,TOOLS,4.4,250000,100000,10000000,Free,0,Everyone,Tools,4.4.92.0,6.0 and up,1,1,2020
+11821,AdGuard,TOOLS,4.2,400000,70000,10000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11822,Blokada,TOOLS,4.3,150000,60000,5000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11823,VLC,VIDEO_PLAYERS,4.4,2000000,50000,100000000,Free,0,Everyone,Video Players & Editors,Varies with device,Varies with device,1,1,2020
+11824,MX Player,VIDEO_PLAYERS,4.5,15000000,60000,1000000000,Free,0,Everyone,Video Players & Editors,Varies with device,5.0 and up,1,1,2020
+11825,Plex,ENTERTAINMENT,4.2,300000,80000,10000000,Free,0,Teen,Entertainment,Varies with device,5.0 and up,1,1,2020
+11826,Kodi,VIDEO_PLAYERS,4.1,200000,90000,10000000,Free,0,Everyone,Video Players & Editors,20.2,5.0 and up,1,1,2020
+11827,Feedly,NEWS_AND_MAGAZINES,4.4,250000,40000,5000000,Free,0,Everyone,News & Magazines,Varies with device,6.0 and up,1,1,2020
+11828,Inoreader,NEWS_AND_MAGAZINES,4.3,50000,50000,1000000,Free,0,Everyone,News & Magazines,Varies with device,6.0 and up,1,1,2020
+11829,F-Droid,LIBRARIES_AND_DEMO,4.5,10000,10000,1000000,Free,0,Everyone,Libraries & Demo,1.17.0,5.0 and up,1,1,2020
+11830,Termux,TOOLS,4.7,150000,20000,10000000,Free,0,Everyone,Tools,0.118.0,7.0 and up,1,1,2020
+11831,AIMP,MUSIC_AND_AUDIO,4.8,800000,30000,10000000,Free,0,Everyone,Music & Audio,3.3,4.4 and up,1,1,2020
+11832,Poweramp,MUSIC_AND_AUDIO,4.5,1500000,20000,50000000,Paid,4.99,Everyone,Music & Audio,Varies with device,Varies with device,1,1,2020
+11833,Neutron Player,MUSIC_AND_AUDIO,4.4,40000,50000,500000,Paid,7.99,Everyone,Music & Audio,2.21.0,2.3 and up,1,1,2020
+11834,GoneMAD Music Player,MUSIC_AND_AUDIO,4.6,30000,40000,500000,Paid,4.99,Everyone,Music & Audio,3.3.6,5.0 and up,1,1,2020
+11835,BlackPlayer,MUSIC_AND_AUDIO,4.6,300000,30000,10000000,Free,0,Everyone,Music & Audio,Varies with device,4.1 and up,1,1,2020
+11836,Stellio,MUSIC_AND_AUDIO,4.7,200000,40000,5000000,Free,0,Everyone,Music & Audio,Varies with device,4.1 and up,1,1,2020
+11837,Musicolet,MUSIC_AND_AUDIO,4.7,300000,20000,5000000,Free,0,Everyone,Music & Audio,Varies with device,4.1 and up,1,1,2020
+11838,Vinyls,MUSIC_AND_AUDIO,4.8,5000,30000,100000,Free,0,Everyone,Music & Audio,1.10.0,7.0 and up,1,1,2022
+11839,Doppler,MUSIC_AND_AUDIO,4.9,8000,40000,50000,Paid,14.99,Everyone,Music & Audio,2.1.3,11.0 and up,1,1,2021
+11840,foobar2000,MUSIC_AND_AUDIO,4.3,30000,20000,1000000,Free,0,Everyone,Music & Audio,1.3.7,4.1 and up,1,1,2020
+11841,Solid Explorer,PRODUCTIVITY,4.5,150000,50000,5000000,Free,0,Everyone,Productivity,2.8.30,4.1 and up,1,1,2020
+11842,MiXplorer,PRODUCTIVITY,4.8,40000,10000,1000000,Paid,4.59,Everyone,Productivity,6.60.4,2.2 and up,1,1,2020
+11843,FX File Explorer,PRODUCTIVITY,4.3,200000,40000,10000000,Free,0,Everyone,Productivity,8.0.0.1,4.1 and up,1,1,2020
+11844,Amaze File Manager,PRODUCTIVITY,4.4,50000,20000,5000000,Free,0,Everyone,Productivity,3.8.3,4.4 and up,1,1,2020
+11845,Gboard,TOOLS,4.5,10000000,100000,5000000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11846,Fleksy,TOOLS,4.2,300000,80000,5000000,Free,0,Everyone,Tools,10.0.3,5.0 and up,1,1,2020
+11847,Chrooma Keyboard,TOOLS,4.3,150000,70000,5000000,Free,0,Everyone,Tools,Varies with device,6.0 and up,1,1,2020
+11848,AnySoftKeyboard,TOOLS,4.5,50000,10000,1000000,Free,0,Everyone,Tools,1.11.1213,4.0.3 and up,1,1,2020
+11849,OpenBoard,TOOLS,4.7,8000,5000,500000,Free,0,Everyone,Tools,1.4.5,4.4 and up,1,1,2021
+11850,Hacker's Keyboard,TOOLS,4.4,120000,5000,5000000,Free,0,Everyone,Tools,1.41.1,2.2 and up,1,1,2020
+11851,Nova Launcher,PERSONALIZATION,4.5,1500000,30000,50000000,Free,0,Everyone,Personalization,8.0.6,8.0 and up,1,1,2020
+11852,Action Launcher,PERSONALIZATION,4.4,300000,40000,10000000,Free,0,Everyone,Personalization,49.1,5.0 and up,1,1,2020
+11853,Lawnchair,PERSONALIZATION,4.3,50000,10000,1000000,Free,0,Everyone,Personalization,2.0-2589,5.0 and up,1,1,2020
+11854,Microsoft Launcher,PERSONALIZATION,4.6,1200000,50000,50000000,Free,0,Everyone,Personalization,Varies with device,Varies with device,1,1,2020
+11855,Smart Launcher,PERSONALIZATION,4.4,500000,20000,10000000,Free,0,Everyone,Personalization,6.3,7.0 and up,1,1,2020
+11856,Niagara Launcher,PERSONALIZATION,4.7,80000,15000,5000000,Free,0,Everyone,Personalization,1.8.8,5.0 and up,1,1,2020
+11857,KISS Launcher,PERSONALIZATION,4.8,30000,500,1000000,Free,0,Everyone,Personalization,3.22.1,4.0.3 and up,1,1,2020
+11858,Olauncher,PERSONALIZATION,4.9,15000,2000,500000,Free,0,Everyone,Personalization,3.7.1,6.0 and up,1,1,2021
+11859,Zedge,PERSONALIZATION,4.5,8000000,50000,100000000,Free,0,Teen,Personalization,Varies with device,Varies with device,1,1,2020
+11860,Backdrops,PERSONALIZATION,4.6,150000,30000,5000000,Free,0,Everyone,Personalization,Varies with device,5.0 and up,1,1,2020
+11861,Walpy,PERSONALIZATION,4.7,25000,10000,1000000,Free,0,Everyone,Personalization,2.7.7,5.0 and up,1,1,2020
+11862,Muzei Live Wallpaper,PERSONALIZATION,4.4,120000,5000,10000000,Free,0,Everyone,Personalization,3.4.3,5.0 and up,1,1,2020
+11863,KWGT Kustom Widget Maker,PERSONALIZATION,4.5,100000,40000,5000000,Free,0,Everyone,Personalization,3.73,7.0 and up,1,1,2020
+11864,KLWP Kustom Live Wallpaper,PERSONALIZATION,4.5,80000,50000,5000000,Free,0,Everyone,Personalization,3.73,7.0 and up,1,1,2020
+11865,Tasker,TOOLS,4.6,80000,10000,1000000,Paid,3.49,Everyone,Tools,6.1.28,5.0 and up,1,1,2020
+11866,Automate,TOOLS,4.5,40000,20000,1000000,Free,0,Everyone,Tools,1.36.1,4.0 and up,1,1,2020
+11867,MacroDroid,TOOLS,4.6,120000,50000,5000000,Free,0,Everyone,Tools,5.34.11,5.0 and up,1,1,2020
+11868,Join,TOOLS,4.7,15000,15000,500000,Paid,4.99,Everyone,Tools,3.3.4,4.1 and up,1,1,2020
+11869,Pushbullet,TOOLS,4.4,200000,10000,5000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11870,AirDroid,TOOLS,4.3,1200000,80000,50000000,Free,0,Everyone,Tools,Varies with device,5.0 and up,1,1,2020
+11871,Unified Remote,TOOLS,4.7,150000,30000,10000000,Free,0,Everyone,Tools,Varies with device,Varies with device,1,1,2020
+11872,Moon+ Reader,BOOKS_AND_REFERENCE,4.5,500000,40000,10000000,Free,0,Everyone,Books & Reference,8.4,4.1 and up,1,1,2020
+11873,Lithium,BOOKS_AND_REFERENCE,4.7,30000,20000,1000000,Free,0,Everyone,Books & Reference,0.24.1,4.1 and up,1,1,2020
+11874,ReadEra,BOOKS_AND_REFERENCE,4.8,1200000,30000,10000000,Free,0,Everyone,Books & Reference,23.07.10,4.1 and up,1,1,2020
+11875,Tachiyomi,COMICS,4.9,20000,30000,5000000,Free,0,Teen,Comics,0.14.6,6.0 and up,1,1,2020
+11876,Perfect Viewer,COMICS,4.6,80000,20000,1000000,Free,0,Everyone,Comics,4.6.0.2,2.3 and up,1,1,2020
+11877,ComiCat,COMICS,4.7,15000,10000,100000,Paid,2.99,Everyone,Comics,2.5,2.1 and up,1,1,2020
+11878,Audible,BOOKS_AND_REFERENCE,4.6,1500000,100000,100000000,Free,0,Teen,Books & Reference,Varies with device,Varies with device,1,1,2020
+11879,Libby,BOOKS_AND_REFERENCE,4.8,300000,80000,10000000,Free,0,Everyone,Books & Reference,Varies with device,Varies with device,1,1,2020
+11880,Scribd,BOOKS_AND_REFERENCE,4.5,800000,90000,50000000,Free,0,Teen,Books & Reference,Varies with device,Varies with device,1,1,2020
+11881,Blinkist,BOOKS_AND_REFERENCE,4.5,200000,70000,10000000,Free,0,Everyone,Books & Reference,9.11.1,7.0 and up,1,1,2020
+11882,Snapseed,PHOTOGRAPHY,4.5,1500000,50000,100000000,Free,0,Everyone,Photography,2.19.1.201,4.4 and up,1,1,2020
+11883,PhotoDirector,PHOTOGRAPHY,4.6,1200000,100000,50000000,Free,0,Everyone,Photography,17.4.1,5.0 and up,1,1,2020
+11884,Fotor,PHOTOGRAPHY,4.5,900000,95000,50000000,Free,0,Everyone,Photography,Varies with device,6.0 and up,18,9,2020
+11885,Pixlr,PHOTOGRAPHY,4.3,1500000,80000,50000000,Free,0,Everyone,Photography,Varies with device,4.4 and up,1,1,2020
+11886,Canva,ART_AND_DESIGN,4.7,12000000,40000,100000000,Free,0,Everyone,Art & Design,Varies with device,5.0 and up,22,8,2020
+11887,Sketchbook,ART_AND_DESIGN,4.3,800000,90000,50000000,Free,0,Everyone,Art & Design,Varies with device,5.0 and up,1,1,2020
+11888,MediBang Paint,ART_AND_DESIGN,4.4,500000,60000,10000000,Free,0,Everyone,Art & Design,25.3,5.0 and up,1,1,2020
+11889,ibis Paint X,ART_AND_DESIGN,4.6,3000000,70000,100000000,Free,0,Everyone,Art & Design,10.0.6,4.4 and up,1,1,2020
+11890,ArtFlow,ART_AND_DESIGN,4.3,100000,40000,5000000,Free,0,Everyone,Art & Design,2.9.15,4.4 and up,1,1,2020
